@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on João Gutemberg Braindump</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://gutofarias.github.io/braindump/posts/</link>
     <description>Recent content in Posts on João Gutemberg Braindump</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://gutofarias.github.io/braindump/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021-06-25</title>
-      <link>http://localhost:1313/posts/2021-06-25/</link>
+      <link>https://gutofarias.github.io/braindump/posts/2021-06-25/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-06-25/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/2021-06-25/</guid>
       <description>tags :
 Testando Parecer Equiparação ESO - Victor Hugo Após análise do processo 23082.007921/2021-79 que trata de um requerimento de Equiparação de ESO do aluno Victor Hugo Nascimento Cleto, foram feitas as seguinte observações em consonância com a Resolução CEPE 425/2010 e respectiva instrução normativa:
  De acordo com a página 51 do PPC, incluiu-se a possibilidade de equiparação de atividades de extensão e de iniciação científica ao estágio supervisionado. As atividades a serem equiparadas são atividades de extensão já concluídas pelo aluno com carga horária suficiente.</description>
@@ -19,69 +19,69 @@ Testando Parecer Equiparação ESO - Victor Hugo Após análise do processo 2308
     
     <item>
       <title>2021-07-08</title>
-      <link>http://localhost:1313/posts/2021-07-08/</link>
+      <link>https://gutofarias.github.io/braindump/posts/2021-07-08/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2021-07-08/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/2021-07-08/</guid>
       <description>Ideia sobre ângulos de euler duais Ângulos de Euler Duais de forma que a parte dual dos ângulos consiga retratar a posição do sistema. Isto é, os ângulos de euler duais tratariam de uma vez posição e orientação.</description>
     </item>
     
     <item>
       <title>abaunza2017 | Dual Quaternion Modeling and Control of a Quad-rotor Aerial Manipulator</title>
-      <link>http://localhost:1313/posts/abaunza2017/</link>
+      <link>https://gutofarias.github.io/braindump/posts/abaunza2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/abaunza2017/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/abaunza2017/</guid>
       <description>The work presents modeling and control of a quadcopter with an robotic arm attached, forming a aerial manipulator. Both modeling and control uses dual quaternions. The work is very similar to abaunza_quadrotor_2016 (same authors)
 Info This contribution presents a modeling technique for an aerial manipulator based on a quad-rotor vehicle provided with a robotic arm. Dual quaternions, which are a little explored but powerful mathematical tool, are proposed as an alternative to the classical Euler angles approach for the kinematic and dynamic modeling.</description>
     </item>
     
     <item>
       <title>Action Graph</title>
-      <link>http://localhost:1313/posts/action_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/action_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/action_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/action_graph/</guid>
       <description>Start with the Tree Graph with the strings included as dashed edges. Replace each edge by c_i edges in parallel, one for each Constraints of Motion of the relative joint. The replaced edges carry a wrench related to the constraint it adds.
 If the original edge was a branch, only one parallel edge remains a branch, all the others become strings. If the original edge was a string, all the parallel edges become strings.</description>
     </item>
     
     <item>
       <title>Action Network Matrix</title>
-      <link>http://localhost:1313/posts/action_network_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/action_network_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/action_network_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/action_network_matrix/</guid>
       <description>Start from the Cut-Set Matrix (Qa) and replace each element of it with the corresponding wrench (read the OBS) times the value of the element in Qa.
 OBS.: Actually it uses not the whole wrench, just the screw associated with the wrench.</description>
     </item>
     
     <item>
       <title>amininan2017 | Explicit Inverse Kinematic Solution for the Industrial FUM Articulated Arm using Dual Quaternion Approach</title>
-      <link>http://localhost:1313/posts/amininan2017/</link>
+      <link>https://gutofarias.github.io/braindump/posts/amininan2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/amininan2017/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/amininan2017/</guid>
       <description>The paper solves the inverse kinematics of an specific serial 6dof industrial arm using dual quaternions. The direct kinematics equations are derived using DQ and through manipulating the equations they can solve it for the inverse kinematics problem. Nothing too fancy or new.
 Info The industrial grade FUM articulated arm is a six-axis robot arm, here on referred to as, FUM 6R-20, designed by Ferdowsi University of Mashhad Robotics Lab. In this paper, an explicit inverse kinematics solution for the industrial grade FUM 6R-20 is presented.</description>
     </item>
     
     <item>
       <title>antonello2018 | A Dual Quaternion Feedback Linearized Approach for Maneuver Regulation of Rigid Bodies</title>
-      <link>http://localhost:1313/posts/antonello2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/antonello2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/antonello2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/antonello2018/</guid>
       <description>The work proposes a Maneuver Regulation Feedback Linearization Controller using dual quaternions for a 6Dof free body. The results show better results for the Maneuver Regulation than the Trajectory Tracking.
 Info The adoption of the dual quaternion formalism to represent the pose (position and orientation) of a rigid body allows to design a single controller to regulate both its position and its attitude. In this letter, we adopt such a pose representation to develop an exponentially stable maneuver regulation control law, ensuring robust path following in the presence of disturbances.</description>
     </item>
     
     <item>
       <title>Article - Dual Quaternions Applications</title>
-      <link>http://localhost:1313/posts/article_dual_quaternions_applications/</link>
+      <link>https://gutofarias.github.io/braindump/posts/article_dual_quaternions_applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/article_dual_quaternions_applications/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/article_dual_quaternions_applications/</guid>
       <description>Esboço do artigo de revisão que estou fazendo sobre Dual Quaternions Applications.
 Introdução [0/1] TODO figueredo_robust_2013 A introdução desse trabalho é muito boa
 Medical Applications [0/2] Acho que não vou usar
@@ -91,37 +91,37 @@ TODO husty2019 The authors proposes a new method to parametrize parallel mechani
     
     <item>
       <title>Artificial Potential Function</title>
-      <link>http://localhost:1313/posts/artificial_potential_function/</link>
+      <link>https://gutofarias.github.io/braindump/posts/artificial_potential_function/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/artificial_potential_function/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/artificial_potential_function/</guid>
       <description>I saw it in an article (huang2017) and it was used for collision avoidance in a formation control. The idea was to add a repulsive field over the spacecrafts. This repulsive field would generate a repulsive force when two spacecrafts were getting close. Then the repulsive force would be added to the control law.</description>
     </item>
     
     <item>
       <title>Automatic Differentiation</title>
-      <link>http://localhost:1313/posts/automatic_differentiation/</link>
+      <link>https://gutofarias.github.io/braindump/posts/automatic_differentiation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/automatic_differentiation/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/automatic_differentiation/</guid>
       <description>Property of Dual Numbers that if the dual part of the number is the derivative of the real part, it will remain so after algebraic manipulations like sum, product, division, etc.</description>
     </item>
     
     <item>
       <title>Base Link</title>
-      <link>http://localhost:1313/posts/base_link/</link>
+      <link>https://gutofarias.github.io/braindump/posts/base_link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/base_link/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/base_link/</guid>
       <description>The initial link of a mechanism, it can be the ground.</description>
     </item>
     
     <item>
       <title>Better Bibtex Extension (Zotero)</title>
-      <link>http://localhost:1313/posts/better_bibtex_extension_zotero/</link>
+      <link>https://gutofarias.github.io/braindump/posts/better_bibtex_extension_zotero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/better_bibtex_extension_zotero/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/better_bibtex_extension_zotero/</guid>
       <description>source https://retorque.re/zotero-better-bibtex/  Extensão do Zotero
 Essa extensão permite, dentre outras coisas, manter sincronizado um arquivo .bib com as referências. Ou seja, toda vez que adicionar uma referência no zotero ele atualiza meu .bib
 Além disso permite configurar o formato do citekey gerado. Não sei se será útil pra integrar com as anotações geradas pelo org-noter a partir do ivy-bibtex.</description>
@@ -129,189 +129,189 @@ Além disso permite configurar o formato do citekey gerado. Não sei se será ú
     
     <item>
       <title>birlescu2020 | Joint-Space Characterization of a Medical Parallel Robot Based on a Dual Quaternion Representation of SE(3)</title>
-      <link>http://localhost:1313/posts/birlescu2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/birlescu2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/birlescu2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/birlescu2020/</guid>
       <description>Muito grande. Não li. Só sei que usa os parâmetros de Study e aplica num robô médico paralelo
 Info The paper proposes a mathematical method for redefining motion parameterizations based on the joint-space representation of parallel robots. The study parameters of SE(3) are used to describe the robot kinematic chains, but, rather than directly analyzing the mobile platform motion, the joint-space of the mechanism is studied by eliminating the Study parameters.</description>
     </item>
     
     <item>
       <title>Body Frame</title>
-      <link>http://localhost:1313/posts/body_frame/</link>
+      <link>https://gutofarias.github.io/braindump/posts/body_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/body_frame/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/body_frame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bookmarklet</title>
-      <link>http://localhost:1313/posts/bookmarklet/</link>
+      <link>https://gutofarias.github.io/braindump/posts/bookmarklet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bookmarklet/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/bookmarklet/</guid>
       <description>É adicionado como uma página de favorito porém no lugar de ser uma página em si, é um código em javascript.</description>
     </item>
     
     <item>
       <title>Branch-And-Prune Method</title>
-      <link>http://localhost:1313/posts/branch_and_prune_method/</link>
+      <link>https://gutofarias.github.io/braindump/posts/branch_and_prune_method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/branch_and_prune_method/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/branch_and_prune_method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Branches in a Tree Graph</title>
-      <link>http://localhost:1313/posts/branches_in_a_tree_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/branches_in_a_tree_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/branches_in_a_tree_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/branches_in_a_tree_graph/</guid>
       <description>When performing a Transforming a graph into a tree, the branches are the edges that stay on the graph forming the tree.</description>
     </item>
     
     <item>
       <title>brodsky_dual_1994 | The Dual Inertia Operator and Its Application to Robot Dynamics</title>
-      <link>http://localhost:1313/posts/brodsky_dual_1994/</link>
+      <link>https://gutofarias.github.io/braindump/posts/brodsky_dual_1994/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/brodsky_dual_1994/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/brodsky_dual_1994/</guid>
       <description>Info Notes </description>
     </item>
     
     <item>
       <title>brodsky_dual_1999 | Dual numbers representation of rigid body dynamics</title>
-      <link>http://localhost:1313/posts/brodsky_dual_1999/</link>
+      <link>https://gutofarias.github.io/braindump/posts/brodsky_dual_1999/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/brodsky_dual_1999/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/brodsky_dual_1999/</guid>
       <description>Info A three-dimensional representation of rigid body dynamic equations becomes possible by introducing the dual inertia operator. This paper generalizes this result and by using motor transformation rules and the dual inertia operator, gives a general expression for the three-dimensional dynamic equation of a rigid body with respect to an arbitrary point.
 Notes </description>
     </item>
     
     <item>
       <title>bultmann2019 | Stereo Visual SLAM Based on Unscented Dual Quaternion Filtering</title>
-      <link>http://localhost:1313/posts/bultmann2019/</link>
+      <link>https://gutofarias.github.io/braindump/posts/bultmann2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/bultmann2019/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/bultmann2019/</guid>
       <description>SLAM using an DQ unscented filter and using the stero visual data. Não tenho muito a dizer porque não li muito.
 Info We present DQV-SLAM (Dual Quaternion Visual SLAM). This novel feature-based stereo visual SLAM framework uses a stochastic filter based on the unscented transform and a progressive Bayes update, avoiding linearization of the nonlinear spatial transformation group. 6-DoF poses are represented by dual quaternions where rotational and translational components are stochastically modeled by Bingham and Gaussian distributions.</description>
     </item>
     
     <item>
       <title>cai2016 | The Foldability of Cylindrical Foldable Structures Based on Rigid Origami</title>
-      <link>http://localhost:1313/posts/cai2016/</link>
+      <link>https://gutofarias.github.io/braindump/posts/cai2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cai2016/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/cai2016/</guid>
       <description>The authors develop a method to check for the rigid foldability of multi-vertex cylindrical origami using dual quaternions. It&amp;rsquo;s a multi step method, one of the steps uses quaternions and the other uses dual quaternions.
 Info Foldable structures, a new kind of space structures developed in recent decades, can be deployed gradually to a working configuration, and also can be folded for transportation, thus have potentially broad application prospects in the fields of human life, military, aerospace, building structures and so on.</description>
     </item>
     
     <item>
       <title>chandra2018 | Dual-Arm Coordination Using Dual Quaternions and Virtual Mechanisms</title>
-      <link>http://localhost:1313/posts/chandra2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/chandra2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chandra2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/chandra2018/</guid>
       <description>The work uses what I think can be classified as a Dual Robot but they call a Dual-Arm robot. The authors use DQ to describe and control the coordinated motion of the arms of the robot. In order to do that, the work defines three reference frames and uses Relative Jacobians. Also they parametrize the task to be performed by a Virtual Mechanism that conects both arms. It is an interesting idea, since by doing that they can impose restrictions to the robot arms movement by the layout of the virtual mechanism.</description>
     </item>
     
     <item>
       <title>chandra2020 | Resolved-Acceleration Control of Serial Robotic Manipulators Using Unit Dual Quaternions</title>
-      <link>http://localhost:1313/posts/chandra2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/chandra2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/chandra2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/chandra2020/</guid>
       <description>The authors propose a new controller using Resolved-Acceleration Control (looks like a feedback linearization) for the trajectory tracking of serial robotic manipulators using dual quaternions and based on screw theory. The controller is compared to a uncoupled controller (which separates translation and orientation) getting similar results, actually performed worse on position but better on orientation.
 Cita bastante ozgur2016 e também três trabalhos de Featherstone que seriam importantes de se ler pois embasam o uso de vetores em 6d e uma separação entre acelaração convencional e aceleração espacial (a espacial seria a derivada da velocidade dual)</description>
     </item>
     
     <item>
       <title>cheng2016 | Dual quaternion-based graphical SLAM</title>
-      <link>http://localhost:1313/posts/cheng2016/</link>
+      <link>https://gutofarias.github.io/braindump/posts/cheng2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cheng2016/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/cheng2016/</guid>
       <description>Parametrizes the SLAM (Simultaneous Location and Mapping) problem using dual-quaternions instead of HTM. The problem is solved through a graph approach that in the DQ formulation can have DQs in the vertices and in the edges, because DQs can represent both the state and the restrictions. The proposed solution improves the computational performance when compared to the same approach using HTM.
 Info This paper presents a new parameterization approach for the graph-based SLAM problem and reveals the differences of two popular over-parameterized ways in the optimization procedure.</description>
     </item>
     
     <item>
       <title>Circuits Matrix</title>
-      <link>http://localhost:1313/posts/circuits_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/circuits_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/circuits_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/circuits_matrix/</guid>
       <description>Each column relates to an edge of the Motion Graph, so there are as many columns as edges. For each Networks Graph there should be a row in the matrix. The contents of each row is derived by applying Kirchhoff Voltage Law.</description>
     </item>
     
     <item>
       <title>Closed Kinematic Chain</title>
-      <link>http://localhost:1313/posts/closed_kinematic_chain/</link>
+      <link>https://gutofarias.github.io/braindump/posts/closed_kinematic_chain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/closed_kinematic_chain/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/closed_kinematic_chain/</guid>
       <description>kinematic chains in which the start link is the end link. The kinematic chain makes a loop, generating a Closure Loop Equation.</description>
     </item>
     
     <item>
       <title>Closed Kinematic Chain System</title>
-      <link>http://localhost:1313/posts/closed_kinematic_chain_system/</link>
+      <link>https://gutofarias.github.io/braindump/posts/closed_kinematic_chain_system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/closed_kinematic_chain_system/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/closed_kinematic_chain_system/</guid>
       <description>A Parallel Mechanism composed of closed kinematic chains but without a well defined (at least visually) End-Effector.
 Examples are: 4 bars, biela-manivela, plaina-limadora.</description>
     </item>
     
     <item>
       <title>Closure Loop Equations</title>
-      <link>http://localhost:1313/posts/closure_loop_equations/</link>
+      <link>https://gutofarias.github.io/braindump/posts/closure_loop_equations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/closure_loop_equations/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/closure_loop_equations/</guid>
       <description>Kinematic loop equations of parallel mechanisms. They receive that name because the equations starts and ends at the same link.</description>
     </item>
     
     <item>
       <title>cohen2020 | Hyper Dual Quaternions representation of rigid bodies kinematics</title>
-      <link>http://localhost:1313/posts/cohen2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/cohen2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cohen2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/cohen2020/</guid>
       <description>tags Dual Quaternions Applications  O artigo faz uso de Hyper-Dual Quaternions pela primeira vez no cálculo da cinemática de mecanismos. Antes tinhamos os números hiper duais e matrizes hiper duais. O resultado mostra uma forma compacta de descrever o movimento e de menos uso computacional que matrizes hiper duais. Usando HDQ, calculamos posição e rotação junto com velocidade linear e angular no mesmo quatérnio hiper dual.
 Info Notes Resumo O artigo faz uso de Hyper-Dual Quaternions pela primeira vez no cálculo da cinemática de mecanismos.</description>
     </item>
     
     <item>
       <title>cohen_application_2015 | Application of Hyper-Dual Numbers to Multibody Kinematics</title>
-      <link>http://localhost:1313/posts/cohen_application_2015/</link>
+      <link>https://gutofarias.github.io/braindump/posts/cohen_application_2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cohen_application_2015/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/cohen_application_2015/</guid>
       <description>Info Notes </description>
     </item>
     
     <item>
       <title>Collision Avoidance</title>
-      <link>http://localhost:1313/posts/collision_avoidance/</link>
+      <link>https://gutofarias.github.io/braindump/posts/collision_avoidance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/collision_avoidance/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/collision_avoidance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Considerations of using Hyper-Dual Quaternions/Vectors - Davies Method for Dynamics</title>
-      <link>http://localhost:1313/posts/considerations_of_using_hyper_dual_quaternions_vectors_davies_method_for_dynamics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/considerations_of_using_hyper_dual_quaternions_vectors_davies_method_for_dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/considerations_of_using_hyper_dual_quaternions_vectors_davies_method_for_dynamics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/considerations_of_using_hyper_dual_quaternions_vectors_davies_method_for_dynamics/</guid>
       <description>Hyper-Dual Quaternions | Hyper-Dual Vectors
 The kinematics using Davies Method is computed for the velocity. But dynamics needs acceleration. In order to obtain that we will use hyper-dual quantities.
 For example, when describing a dual veclocity as a dual vector, we have:
@@ -321,10 +321,10 @@ This has the information of the angular velocity and linear velociy. We extend t
     
     <item>
       <title>Considerations over the inertia matrix - Davies Method for Dynamics</title>
-      <link>http://localhost:1313/posts/considerations_over_the_inertia_matrix_davies_method_for_dynamics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/considerations_over_the_inertia_matrix_davies_method_for_dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/considerations_over_the_inertia_matrix_davies_method_for_dynamics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/considerations_over_the_inertia_matrix_davies_method_for_dynamics/</guid>
       <description>We are using all the efforts in the inertial reference frame, so the inertia matrix should be writen in that same frame. One problem arrises, the inertia matrix is not constant in the inertial frame, but it is so in an appropriate mobile frame. So we go frame from the mobile frame and transform it to the inertial frame. I.e.,
 \[{_I}I_{i} = R^T_i \, {_{Bi}I_{i} \]
 where \(i\) refers to one of the links.</description>
@@ -332,56 +332,56 @@ where \(i\) refers to one of the links.</description>
     
     <item>
       <title>Constraints of Motion</title>
-      <link>http://localhost:1313/posts/constraints_of_motion/</link>
+      <link>https://gutofarias.github.io/braindump/posts/constraints_of_motion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/constraints_of_motion/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/constraints_of_motion/</guid>
       <description>When we analise a system or a joint, it has an allowed motion, which are the degrees of freedom. The motion that is not allowed is then constrained. For each translation motion constrained there should be a force and for each rotation motion constrained there should be a torque/moment.</description>
     </item>
     
     <item>
       <title>Convenient Frame</title>
-      <link>http://localhost:1313/posts/convenient_frame/</link>
+      <link>https://gutofarias.github.io/braindump/posts/convenient_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/convenient_frame/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/convenient_frame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cost Function</title>
-      <link>http://localhost:1313/posts/cost_function/</link>
+      <link>https://gutofarias.github.io/braindump/posts/cost_function/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cost_function/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/cost_function/</guid>
       <description>It appears in optimization problems and is the function whose value we want to optimize. When we call it cost function usually we mean that we want to minimize its value. This function has to be a measure of performance somehow, meaning that the lower the value the higher the system performance.</description>
     </item>
     
     <item>
       <title>Coupled Equations Matrix</title>
-      <link>http://localhost:1313/posts/coupled_equations_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/coupled_equations_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/coupled_equations_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/coupled_equations_matrix/</guid>
       <description>Matrix in which each column uses the Vector of System Parameters as reference and each row is given by one coupled equation between Kinematics and Statics. Usually this equation is in the form of a viscous friction. The equations should be in the form \(something = 0\).</description>
     </item>
     
     <item>
       <title>Coupling Graph</title>
-      <link>http://localhost:1313/posts/coupling_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/coupling_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/coupling_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/coupling_graph/</guid>
       <description>The coupling graph is a graph created by arranging every joint in a node and every link in an edge.
 It is a directional graph. The direction can be choose using an arbitrary rule (like pointing to the higher number edge). The direction will determine the positivity of the equations latter on.</description>
     </item>
     
     <item>
       <title>Cut-Set Matrix</title>
-      <link>http://localhost:1313/posts/cut_set_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/cut_set_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cut_set_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/cut_set_matrix/</guid>
       <description>The cut-set forms a matrix where each column relates to an edge of the Action Graph, so there are as many columns as edges.
 For each row we cut one branch and assess the positiveness of the cutted elements. Each column in the row is either +1 if the respective element was cutted positively, -1 if cutted negativelly and 0 if not cutted.
 There is one row for each branch in the Coupling Graph.</description>
@@ -389,20 +389,20 @@ There is one row for each branch in the Coupling Graph.</description>
     
     <item>
       <title>Cutting a Tree Graph</title>
-      <link>http://localhost:1313/posts/cutting_a_tree_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/cutting_a_tree_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/cutting_a_tree_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/cutting_a_tree_graph/</guid>
       <description>Take a line cut in the Action Graph (straight or curved) that cuts only one branch but separates the graph in two parts. Strings can be cutted freely.
 Positiviness of the cutted parts can be found here.</description>
     </item>
     
     <item>
       <title>Davies Method</title>
-      <link>http://localhost:1313/posts/davies_method/</link>
+      <link>https://gutofarias.github.io/braindump/posts/davies_method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/davies_method/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/davies_method/</guid>
       <description>Davies Method is a method for computing the differential kinematics and statics of a general mechanical system using Graph Theory, Screw Theory and Plucker Coordinates.
 Start with a Closed Kinematic Chain System (can be used with a Open Kinematic Chain System but it requires virtual links and joints) then follow the procedure
 Enumerate the joints and links Use letters for the joints and numbers for the links. The earth or support should be number 0 or 1 (when there is no 0).</description>
@@ -410,29 +410,29 @@ Enumerate the joints and links Use letters for the joints and numbers for the li
     
     <item>
       <title>Deft</title>
-      <link>http://localhost:1313/posts/deft/</link>
+      <link>https://gutofarias.github.io/braindump/posts/deft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deft/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/deft/</guid>
       <description>sources https://github.com/jrblevin/deft, https://jblevins.org/projects/deft/  Ferramenta que permite pesquisar as notas de uma pasta (escolhi a pasta do org-roam) de forma fuzzy. A pesquisa inclui nome, path e conteúdo.</description>
     </item>
     
     <item>
       <title>Degrees of Freedom</title>
-      <link>http://localhost:1313/posts/degrees_of_freedom/</link>
+      <link>https://gutofarias.github.io/braindump/posts/degrees_of_freedom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/degrees_of_freedom/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/degrees_of_freedom/</guid>
       <description>Refers to the freedom of motion of a system or joint. It is usually described as a subset from the allowed motions of a freebody in space, being it 3 independent translations and 3 independent rotations. When dealing with a system in the plane we consider only 3 allowed motions, 2 independent translations and 1 rotation.
 When talking about a joint, it may allow a relative motion between the two or more conected links.</description>
     </item>
     
     <item>
       <title>Difference of the approach to Dynamics in Force Analysins - Davies Method for Dynamics</title>
-      <link>http://localhost:1313/posts/difference_of_the_approach_to_dynamics_in_force_analysins_davies_method_for_dynamics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/difference_of_the_approach_to_dynamics_in_force_analysins_davies_method_for_dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/difference_of_the_approach_to_dynamics_in_force_analysins_davies_method_for_dynamics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/difference_of_the_approach_to_dynamics_in_force_analysins_davies_method_for_dynamics/</guid>
       <description>Check out Understanding Davies Method&amp;rsquo;s statics analysis first.
 In dynamics calculations we need to perform the sum of forces and moments acting in each individual body. So for each link/node we compute the sum of forces and moments acting in the link.
 Also, we need to chose a point in order to calculate the external moments. For simplicity, the point should be the center of mass of the link.
@@ -441,10 +441,10 @@ In order to do that, we first build an Action Graph and make a &amp;ldquo;circul
     
     <item>
       <title>Difference of the approach to Dynamics on the Kinematic Analysis - Davies Method for Dynamics</title>
-      <link>http://localhost:1313/posts/difference_of_the_approach_to_dynamics_on_the_kinematic_analysis_davies_method_for_dynamics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/difference_of_the_approach_to_dynamics_on_the_kinematic_analysis_davies_method_for_dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/difference_of_the_approach_to_dynamics_on_the_kinematic_analysis_davies_method_for_dynamics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/difference_of_the_approach_to_dynamics_on_the_kinematic_analysis_davies_method_for_dynamics/</guid>
       <description>Check out Understanding Davies Method&amp;rsquo;s kinematic analysis first.
 To deal with dynamics, we can not reference the origin of the system, we need to reference the center of mass of each of the links. Also, we can not make a Closed Kinematic Chain equation, as the kinematics of a link depends only on the previous joints, not on the next ones.
 So in order to compute the kinematics of a link we use the the Coupling Graph and make a graph trajectory going from the base link (origin of the system) to the link whose kinematics we are calculating.</description>
@@ -452,122 +452,122 @@ So in order to compute the kinematics of a link we use the the Coupling Graph an
     
     <item>
       <title>Differential Geometry</title>
-      <link>http://localhost:1313/posts/differential_geometry/</link>
+      <link>https://gutofarias.github.io/braindump/posts/differential_geometry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/differential_geometry/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/differential_geometry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Kinematics</title>
-      <link>http://localhost:1313/posts/differential_kinematics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/differential_kinematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/differential_kinematics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/differential_kinematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct Kinematics</title>
-      <link>http://localhost:1313/posts/direct_kinematics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/direct_kinematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/direct_kinematics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/direct_kinematics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Direct Twists Matrix</title>
-      <link>http://localhost:1313/posts/direct_twists_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/direct_twists_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/direct_twists_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/direct_twists_matrix/</guid>
       <description>Matrix created by arranging each respective twist (read the OBS) in a column, following the order of columns of the Circuits Matrix.
 OBS.: Actually it uses not the whole twist, just the screw associated with the twist.</description>
     </item>
     
     <item>
       <title>Direct Wrenches Matrix</title>
-      <link>http://localhost:1313/posts/direct_wrenches_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/direct_wrenches_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/direct_wrenches_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/direct_wrenches_matrix/</guid>
       <description>Is a matrix created by arranging each respective wrench (read the OBS) in a column, following the order of columns of the Cut-Set Matrix.
 OBS.: Actually it uses not the whole wrench, just the screw associated with the wrench.</description>
     </item>
     
     <item>
       <title>Directional Edge</title>
-      <link>http://localhost:1313/posts/directed_edge/</link>
+      <link>https://gutofarias.github.io/braindump/posts/directed_edge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/directed_edge/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/directed_edge/</guid>
       <description>Edge that points to a node by having an arrow.</description>
     </item>
     
     <item>
       <title>Directional Graph</title>
-      <link>http://localhost:1313/posts/directed_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/directed_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/directed_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/directed_graph/</guid>
       <description>Graph where the edges are directional.</description>
     </item>
     
     <item>
       <title>dong2017 | Dual-Quaternion-Based Fault-Tolerant Control for Spacecraft Tracking With Finite-Time Convergence</title>
-      <link>http://localhost:1313/posts/dong2017/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dong2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dong2017/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dong2017/</guid>
       <description>A fault-tolerant sliding modes controller using dual quaternions is proposed for a target-pursuer spacecraft tracking. The proposed controller can achieve a few desired properties as tracking error converging to zero within a choosed finite time. The faults can be partial or total actuator power loss, actuator offset and locking. The controller is used in a simulation showing promising results.
 Info Results are presented for a study of dual extendash quaternion-based fault-tolerant control for spacecraft tracking.</description>
     </item>
     
     <item>
       <title>dong2018 | Dual-Quaternion-Based Spacecraft Autonomous Rendezvous and Docking Under Six-Degree-of-Freedom Motion Constraints</title>
-      <link>http://localhost:1313/posts/dong2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dong2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dong2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dong2018/</guid>
       <description>tag Article - Dual Quaternions Applications  The work shows the control of a Rendezvous and Docking process using dual quaternions to describe the kinematics and formulate two restrictions, one for the line of sight of the chaser to the target spacecraft and other to ensure a safe approach path from the chaser to the target in order to not hit any external equipament of the target. The authors use Artificial Potential Functions to formulate the control problem and perform a Lyapunov Stability Analysis.</description>
     </item>
     
     <item>
       <title>dong2019 | Partial Lyapunov Strictification: Dual-Quaternion-Based Observer for 6-DOF Tracking Control</title>
-      <link>http://localhost:1313/posts/dong2019/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dong2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dong2019/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dong2019/</guid>
       <description>The authors develop a Dual Quaternion based 6-DOF observer and controller. The controller has a PD-like structure. The observer and controller are validated through simulation of a spacecraft in absensce of both translational and angular velocity measurements.
 Info Based on the dual-quaternion description, a smooth six-degree-of-freedom observer is proposed to estimate the incorporating linear (translational) and angular velocity, called the dual-angular velocity, for rigid bodies. To establish the observer, some important properties of dual vectors and dual quaternions are presented and proved, additionally, the kinematics of dualtransformation matrices is deduced, and the transition relationship between dual quaternions and dual transformation matrices is subsequently analyzed.</description>
     </item>
     
     <item>
       <title>Dual Angles</title>
-      <link>http://localhost:1313/posts/dual_angles/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_angles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_angles/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_angles/</guid>
       <description>Are an extension of angles to a dual number. Dual angles can encompass a rotation and a translation. So it can represent a line transformation like rotate around an axis an translating along the same axis.</description>
     </item>
     
     <item>
       <title>Dual Curvature Theory</title>
-      <link>http://localhost:1313/posts/dual_curvature_theory/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_curvature_theory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_curvature_theory/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_curvature_theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual Derivative Operator</title>
-      <link>http://localhost:1313/posts/dual_derivative_operator/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_derivative_operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_derivative_operator/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_derivative_operator/</guid>
       <description>brodsky_dual_1994 criou.
 É criado o operador \(d\epsilon\) para agir como uma derivada em relação a \(\epsilon\) (Dual Operator). O seu efeito é fazer o contrário do que o epsilon faz, passa uma quantidade da parte dual para a parte real.
 When applied to the real part, the operator makes it 0. As an \(\epsilon\) does not exist in this part, the derivative of this part in relation to \(\epsilon\) is zero.</description>
@@ -575,29 +575,29 @@ When applied to the real part, the operator makes it 0. As an \(\epsilon\) does 
     
     <item>
       <title>Dual Euler Angles</title>
-      <link>http://localhost:1313/posts/dual_euler_angles/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_euler_angles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_euler_angles/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_euler_angles/</guid>
       <description>Extension for Euler Angles that treats both position and orientation simultaneously.
 Idea I had. Dont know if some one has already thought of it.</description>
     </item>
     
     <item>
       <title>Dual Lagrange Equation</title>
-      <link>http://localhost:1313/posts/dual_lagrange_equation/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_lagrange_equation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_lagrange_equation/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_lagrange_equation/</guid>
       <description>brodsky_dual_1999</description>
     </item>
     
     <item>
       <title>Dual Mass</title>
-      <link>http://localhost:1313/posts/dual_mass/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_mass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_mass/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_mass/</guid>
       <description>brodsky_dual_1994 criou.
 \[ M_i = {_I}I_{i} \, \epsilon + m_{i} \, d\epsilon \]
 Where: \(\epsilon\) is the Dual Operator and \(d\epsilon\) is the Dual Derivative Operator.
@@ -606,10 +606,10 @@ Note that the dual mass also work like a Dual Swap Operator.</description>
     
     <item>
       <title>Dual Numbers</title>
-      <link>http://localhost:1313/posts/dual_numbers/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_numbers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_numbers/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_numbers/</guid>
       <description>It is like a complex number but instead of an i (imaginary number) we have an \(\epsilon\) having the properties of \(\epsilon^2 = 0\) and it commutes freely with real numbers. So a dual number has a real part and a dual part, like \(5 + \epsilon \, 6\).
 \(\epsilon\) can also be thougth as a Dual Operator.
 All sorts of interesting stuff arrives from this simple property, like Dual Angles.</description>
@@ -617,84 +617,84 @@ All sorts of interesting stuff arrives from this simple property, like Dual Angl
     
     <item>
       <title>Dual Operator</title>
-      <link>http://localhost:1313/posts/dual_operator/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_operator/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_operator/</guid>
       <description>In Dual Numbers the \(\epsilon\) can be thougth of as an operator that takes a quantity from the Real Part and puts it on the Dual Part. Of course when the operator acts on a quantity in the dual part, it turns it to zero because \(\epsilon^2 = 0\).</description>
     </item>
     
     <item>
       <title>Dual Part</title>
-      <link>http://localhost:1313/posts/dual_part/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_part/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_part/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_part/</guid>
       <description>The dual part of a dual quantity (like a Dual Number) is the part multiplied by \(\varepsilon\).</description>
     </item>
     
     <item>
       <title>Dual Quaternions Applications</title>
-      <link>http://localhost:1313/posts/dual_quaternions_applications/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_quaternions_applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_quaternions_applications/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_quaternions_applications/</guid>
       <description>Nota pra fazer esboço da continuação do artigo de aplicações de quaternios duais.
 Será útil para ajudar na construção do Article - Dual Quaternions Applications</description>
     </item>
     
     <item>
       <title>Dual Robots</title>
-      <link>http://localhost:1313/posts/dual_robots/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_robots/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_robots/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_robots/</guid>
       <description>Dual robots are two robots working together to accomplish a task. We can have a robot holding an object and another with an end-effector acting in the object.</description>
     </item>
     
     <item>
       <title>Dual Swap Operator</title>
-      <link>http://localhost:1313/posts/dual_swap_operator/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_swap_operator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_swap_operator/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_swap_operator/</guid>
       <description>If we combine the Dual Operator and the Dual Derivative Operator we can build a dual swap operator by:
 \[ (\epsilon + d\epsilon) (a + \epsilon\, b) = b + \epsilon \, a \]</description>
     </item>
     
     <item>
       <title>Dual Transformation Matrix</title>
-      <link>http://localhost:1313/posts/dual_transformation_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_transformation_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_transformation_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_transformation_matrix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dual Vector</title>
-      <link>http://localhost:1313/posts/dual_vector/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_vector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_vector/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_vector/</guid>
       <description>Vector whose each component is a Dual Numbers. Also, can be thought of being two vectors, one real and another dual.</description>
     </item>
     
     <item>
       <title>Dual-Quaternions Neural Networks</title>
-      <link>http://localhost:1313/posts/dual_quaternions_neural_networks/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_quaternions_neural_networks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_quaternions_neural_networks/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_quaternions_neural_networks/</guid>
       <description>In this type of Neural Network neurons, weights and bias become dual quaternions instead of scalar values.</description>
     </item>
     
     <item>
       <title>Dynamics Extension for Davies Method</title>
-      <link>http://localhost:1313/posts/dynamics_extension_for_davies_method/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dynamics_extension_for_davies_method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dynamics_extension_for_davies_method/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dynamics_extension_for_davies_method/</guid>
       <description>Idea I had for extending Davies Method which works only for Differential Kinematics and Statics. I wish to extend the formulation to include Dynamics.
 My idea is to go through Hyper-Dual Quaternions. But I should take a look at Screw Calculus as well.
 Start with a mechanism or robot (can be either a Open Kinematic Chain System or a Closed Kinematic Chain System)
@@ -703,56 +703,56 @@ Enumerate the joints and links Use letters for the joints and numbers for the li
     
     <item>
       <title>Elm</title>
-      <link>http://localhost:1313/posts/elm/</link>
+      <link>https://gutofarias.github.io/braindump/posts/elm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/elm/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/elm/</guid>
       <description>A Functional Programming language made to write Web Applications, or I think maybe more like front-end stuff. The language emphasis is on easy of use, no been overly complicated. Has a syntax similar to Haskell.
 I did some reseach in the topic so to produce something support material for my classes and a reason to practice Haskell. Elm although is not as haskellish as Purescript, turns out to be way simpler to work, as far as I could tell.</description>
     </item>
     
     <item>
       <title>elm-charts</title>
-      <link>http://localhost:1313/posts/elm_charts/</link>
+      <link>https://gutofarias.github.io/braindump/posts/elm_charts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/elm_charts/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/elm_charts/</guid>
       <description>tags Elm source https://elm-charts.org/  Pacote sensacional pra se fazer gráficos usando o Elm e renderizando em SVG.</description>
     </item>
     
     <item>
       <title>elm-geometry</title>
-      <link>http://localhost:1313/posts/elm_geometry/</link>
+      <link>https://gutofarias.github.io/braindump/posts/elm_geometry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/elm_geometry/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/elm_geometry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elm-playground</title>
-      <link>http://localhost:1313/posts/elm_playground/</link>
+      <link>https://gutofarias.github.io/braindump/posts/elm_playground/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/elm_playground/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/elm_playground/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elm-spa</title>
-      <link>http://localhost:1313/posts/elm_spa/</link>
+      <link>https://gutofarias.github.io/braindump/posts/elm_spa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/elm_spa/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/elm_spa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Emacs Zettelkasten</title>
-      <link>http://localhost:1313/posts/emacs_zettelkasten/</link>
+      <link>https://gutofarias.github.io/braindump/posts/emacs_zettelkasten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/emacs_zettelkasten/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/emacs_zettelkasten/</guid>
       <description>Minha configuração no Emacs pra usar o método Zettelkasten.
 Transição para Org com Zettelkasten TODO Pacotes para instalar e configurar  org-roam org-noter org-pdftools org-noter-pdftools Zotero + Better Bibtex Extension (Zotero) ivy-bibtex org-ref Org Roam Bibtex (ORB) org-roam-dailies Deft org-protocol org-protocol instalação org-roam-protocol org-roam-server org-protocol-capture-html org-download org-cliplink  Material de estudo EmacsConf 2020 - 17 - Org-mode and Org-Roam for Scholars and Researchers - Noorah Alhasan https://youtu.be/bTbiC6SamT4
 An Orgmode Note Workflow https://rgoswami.</description>
@@ -760,212 +760,212 @@ An Orgmode Note Workflow https://rgoswami.</description>
     
     <item>
       <title>emacsclient</title>
-      <link>http://localhost:1313/posts/emacsclient/</link>
+      <link>https://gutofarias.github.io/braindump/posts/emacsclient/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/emacsclient/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/emacsclient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End Link</title>
-      <link>http://localhost:1313/posts/end_link/</link>
+      <link>https://gutofarias.github.io/braindump/posts/end_link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/end_link/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/end_link/</guid>
       <description>The final link of a mechanism, the one that does the intended motion which is the purpose of the mechanism.</description>
     </item>
     
     <item>
       <title>Estimation</title>
-      <link>http://localhost:1313/posts/estimation/</link>
+      <link>https://gutofarias.github.io/braindump/posts/estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/estimation/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/estimation/</guid>
       <description>A field in robotics that tries to infer system real parameters based on measurements and predictions.</description>
     </item>
     
     <item>
       <title>Euler Angles</title>
-      <link>http://localhost:1313/posts/euler_angles/</link>
+      <link>https://gutofarias.github.io/braindump/posts/euler_angles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/euler_angles/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/euler_angles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extended Kalman Filter</title>
-      <link>http://localhost:1313/posts/extended_kalman_filter/</link>
+      <link>https://gutofarias.github.io/braindump/posts/extended_kalman_filter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/extended_kalman_filter/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/extended_kalman_filter/</guid>
       <description>A type of estimator that extends the use of a Kalman Filter to a non-linear system by linearization</description>
     </item>
     
     <item>
       <title>Feedback Linearization</title>
-      <link>http://localhost:1313/posts/feedback_linearization/</link>
+      <link>https://gutofarias.github.io/braindump/posts/feedback_linearization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/feedback_linearization/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/feedback_linearization/</guid>
       <description>Type of nonlinear controller Elaborar mais.</description>
     </item>
     
     <item>
       <title>figueredo_robust_2013 | Robust kinematic control of manipulator robots using dual quaternion representation</title>
-      <link>http://localhost:1313/posts/figueredo_robust_2013/</link>
+      <link>https://gutofarias.github.io/braindump/posts/figueredo_robust_2013/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/figueredo_robust_2013/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/figueredo_robust_2013/</guid>
       <description>tags Dual Quaternions Applications  Resumo Very good article in general, very well writen. Talks about a \(H_\infty\) control using dual quaternions for the kinematics and control (for control the dual quarternion is used as an 8-vector). The control strategy is robust as it rejects perturbations. Also it defines a new error metric (more in the notes). Very good introduction.
 Info This paper addresses the H\(infty\) robust control problem for robot manipulators using unit dual quaternion representation, which allows an utter description of the end-effector transformation without decoupling rotational and translational dynamics.</description>
     </item>
     
     <item>
       <title>Formation Control</title>
-      <link>http://localhost:1313/posts/formation_control/</link>
+      <link>https://gutofarias.github.io/braindump/posts/formation_control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/formation_control/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/formation_control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fu2020 | A Dual Quaternion-Based Approach for Coordinate Calibration of Dual Robots in Collaborative Motion</title>
-      <link>http://localhost:1313/posts/fu2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/fu2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/fu2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/fu2020/</guid>
       <description>Interesting article about coordinate calibration of dual robots using dual quaternions. The problem itself is very interesting, we have two robot coordinates system, one camera coordinate system and one coordinate system relative to the object being held. So in order to relate all this coordinates systems and assure that they are calibrated, the authors calibrate a hand-eye, a robot-robot and a tool-flange transformations.
 The article concludes that the DQ methodology offers higher calibration accurary when compared to existing methods.</description>
     </item>
     
     <item>
       <title>Functional Programming</title>
-      <link>http://localhost:1313/posts/functional_programming/</link>
+      <link>https://gutofarias.github.io/braindump/posts/functional_programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/functional_programming/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/functional_programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General Dual Quaternion with d/de</title>
-      <link>http://localhost:1313/posts/general_dual_quaternion_with_d_de/</link>
+      <link>https://gutofarias.github.io/braindump/posts/general_dual_quaternion_with_d_de/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/general_dual_quaternion_with_d_de/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/general_dual_quaternion_with_d_de/</guid>
       <description>Usar o gerador d/de introduzido para representar a Dual Mass como sendo uma forma de generalizar o quatérnio dual, que deixaria de ser teria três quaternios (q1 + e q2 + d/de q3).</description>
     </item>
     
     <item>
       <title>giribet2021 | Dual Quaternion Cluster-Space Formation Control</title>
-      <link>http://localhost:1313/posts/giribet2021/</link>
+      <link>https://gutofarias.github.io/braindump/posts/giribet2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/giribet2021/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/giribet2021/</guid>
       <description>The authors present a cluster-space formation control and apply it to leader-follower configuration using dual quaternions and reducing steady-state errors when compared to previous works. Experiments are made to validade the formation control using a ground and an aerial vehicles, and using two aerial vehicles.
 Info We present a tracking controller for mobile multirobot systems based on dual quaternion pose representations applied to formations of robots in a leader-follower configuration, by using a cluster-space state approach.</description>
     </item>
     
     <item>
       <title>Graph</title>
-      <link>http://localhost:1313/posts/graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/graph/</guid>
       <description>The main element in the Graph Theory. It is a structure composed of node/vertices and edges.</description>
     </item>
     
     <item>
       <title>Graph Edge</title>
-      <link>http://localhost:1313/posts/graph_edge/</link>
+      <link>https://gutofarias.github.io/braindump/posts/graph_edge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/graph_edge/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/graph_edge/</guid>
       <description>The line that goes from one node to another node (i think it may even go to the same node). It can be directed or not.</description>
     </item>
     
     <item>
       <title>Graph Node</title>
-      <link>http://localhost:1313/posts/graph_node/</link>
+      <link>https://gutofarias.github.io/braindump/posts/graph_node/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/graph_node/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/graph_node/</guid>
       <description>The points where the edges start and end.</description>
     </item>
     
     <item>
       <title>Graph Theory</title>
-      <link>http://localhost:1313/posts/graph_theory/</link>
+      <link>https://gutofarias.github.io/braindump/posts/graph_theory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/graph_theory/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/graph_theory/</guid>
       <description>The theory formulated around Graphs.</description>
     </item>
     
     <item>
       <title>GraphicSVG</title>
-      <link>http://localhost:1313/posts/graphicsvg/</link>
+      <link>https://gutofarias.github.io/braindump/posts/graphicsvg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/graphicsvg/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/graphicsvg/</guid>
       <description>tags Elm source https://package.elm-lang.org/packages/MacCASOutreach/graphicsvg/latest/  Pacote muito promissor que irei investigar pra gerar vector graphics no Elm.</description>
     </item>
     
     <item>
       <title>Haskell</title>
-      <link>http://localhost:1313/posts/haskell/</link>
+      <link>https://gutofarias.github.io/braindump/posts/haskell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/haskell/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/haskell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homogeneous Transformation Matrix</title>
-      <link>http://localhost:1313/posts/homogeneous_transformation_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/homogeneous_transformation_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/homogeneous_transformation_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/homogeneous_transformation_matrix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hot Swapping (Elm)</title>
-      <link>http://localhost:1313/posts/hot_swapping_elm/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hot_swapping_elm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hot_swapping_elm/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hot_swapping_elm/</guid>
       <description> source https://elm-lang.org/news/interactive-programming  </description>
     </item>
     
     <item>
       <title>hsia_principle_1981 | On the Principle of Transference In Three-Dimensional Kinematics</title>
-      <link>http://localhost:1313/posts/hsia_principle_1981/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hsia_principle_1981/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hsia_principle_1981/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hsia_principle_1981/</guid>
       <description>Info Notes Resumo O trabalho mostra uma forma de transformar uma matriz de transformação dual em um par com uma matriz de transformação e um vetor posição. O autor usa isso pra converter &amp;ldquo;dual instantaneous invariants&amp;rdquo; (baseadas em retas) para &amp;ldquo;instantaneous invariants&amp;rdquo; (baseadas em pontos). Isso de alguma forma tem a ver com trajetórias de retas e trajetórias de pontos respectivamente.
 Screw Calculus parece ser um tema interessante. Será que tem alguma ligação com Dynamics Extension for Davies Method?</description>
     </item>
     
     <item>
       <title>Html to Elm (Elm)</title>
-      <link>http://localhost:1313/posts/html_to_elm_elm/</link>
+      <link>https://gutofarias.github.io/braindump/posts/html_to_elm_elm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/html_to_elm_elm/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/html_to_elm_elm/</guid>
       <description>source https://mbylstra.github.io/html-to-elm/  Site that converts HTML code into Elm code.</description>
     </item>
     
     <item>
       <title>huang2017 | Dual-quaternion based distributed coordination control of six-DOF spacecraft formation with collision avoidance</title>
-      <link>http://localhost:1313/posts/huang2017/</link>
+      <link>https://gutofarias.github.io/braindump/posts/huang2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/huang2017/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/huang2017/</guid>
       <description>The work proposes a formation control using dual quaternions, the formation error is controlled through a sliding modes controller and one term is added for collision avoidance using Artificial Potential Function.
 The part of artificial potential function is interesting and intuitive.
 Info Notes Resumo The work proposes a formation control using dual quaternions, the formation error is controlled through a sliding modes controller and one term is added for collision avoidance using Artificial Potential Function.</description>
@@ -973,20 +973,20 @@ Info Notes Resumo The work proposes a formation control using dual quaternions, 
     
     <item>
       <title>husty2019 | An algebraic parameterization approach for parallel robots analysis</title>
-      <link>http://localhost:1313/posts/husty2019/</link>
+      <link>https://gutofarias.github.io/braindump/posts/husty2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/husty2019/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/husty2019/</guid>
       <description>tags Dual Quaternions Applications  The authors proposes a new method to parametrize parallel mechanisms using Study parameters, applying it in a mechanism to help in the lower limb rehabilitation process of post-stroke patients.
 Info Notes Resumo The authors proposes a new method to parametrize parallel mechanisms using Study parameters, applying it in a mechanism to help in the lower limb rehabilitation process of post-stroke patients.</description>
     </item>
     
     <item>
       <title>Hyper-Dual Mass</title>
-      <link>http://localhost:1313/posts/hyper_dual_mass/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hyper_dual_mass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hyper_dual_mass/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hyper_dual_mass/</guid>
       <description>Extension of the Dual Mass for the Hyper-Dual domain by adding the derivative of the dual mass.
 \[ \check{M}_i = M_i + \check{\epsilon} \, \dot{M}_i \]
 \[ \check{M}_i = {_I}I_{i} \, \epsilon + m_{i} \, d\epsilon + \check{\epsilon} \, ({_I}\dot{I}_{i} \, \epsilon ) \]</description>
@@ -994,39 +994,39 @@ Info Notes Resumo The authors proposes a new method to parametrize parallel mech
     
     <item>
       <title>Hyper-Dual Matrices</title>
-      <link>http://localhost:1313/posts/hyper_dual_matrices/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hyper_dual_matrices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hyper_dual_matrices/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hyper_dual_matrices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyper-Dual Numbers</title>
-      <link>http://localhost:1313/posts/hyper_dual_numbers/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hyper_dual_numbers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hyper_dual_numbers/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hyper_dual_numbers/</guid>
       <description>cohen_application_2015 criou eu acho.
 Extension of Dual Numbers to a higher order using other dual operators.</description>
     </item>
     
     <item>
       <title>Hyper-Dual Quaternions</title>
-      <link>http://localhost:1313/posts/hyper_dual_quaternions/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hyper_dual_quaternions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hyper_dual_quaternions/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hyper_dual_quaternions/</guid>
       <description>It is a Quaternion in which its components are Hyper-Dual Numbers
 Can be used to compute the pose and its derivative from at the same quaternion structure, using the Automatic Differentiation property.</description>
     </item>
     
     <item>
       <title>Hyper-Dual Twist</title>
-      <link>http://localhost:1313/posts/hyper_dual_twist/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hyper_dual_twist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hyper_dual_twist/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hyper_dual_twist/</guid>
       <description>It is an enlarged twist that carries the information of both velocity and acceleration using Hyper-Dual Vectors. Or a movement and its derivative. It uses the Automatic Differentiation property of Dual Numbers/Hyper-Dual Numbers.
 If we have an velocity twist: \[ \hat{\nu} = \vec{\omega} + \epsilon \, \vec{v} = (\omega + \epsilon \, v) \hat{s} = |\hat\nu| \, \hat{s} \]
 The hyper-dual velocity twist will be:
@@ -1035,10 +1035,10 @@ k\[ \check{\nu} = [\hat{\omega} + \epsilon \, \hat{v} + \check{\epsilon} ( \dot{
     
     <item>
       <title>Hyper-Dual Twist of a Joint</title>
-      <link>http://localhost:1313/posts/dual_twist_of_a_joint/</link>
+      <link>https://gutofarias.github.io/braindump/posts/dual_twist_of_a_joint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dual_twist_of_a_joint/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/dual_twist_of_a_joint/</guid>
       <description>To construct the Hyper-Dual Twist, start with Twist of a Joint. Use the separation of the twist as an axis and a dual joint variable:
 \[ \xi = (\omega + \epsilon \, 0) \, \hat{s} = \hat{\omega} \, \hat{s}\]
 Transforming to hyper-dual numbers we obtain:
@@ -1047,58 +1047,58 @@ Transforming to hyper-dual numbers we obtain:
     
     <item>
       <title>Hyper-Dual Vectors</title>
-      <link>http://localhost:1313/posts/hyper_dual_vectors/</link>
+      <link>https://gutofarias.github.io/braindump/posts/hyper_dual_vectors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hyper_dual_vectors/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/hyper_dual_vectors/</guid>
       <description>It is a vector in which its components are Hyper-Dual Numbers
 Can be used to compute the pose and its derivative from at the same dual vector structure, using the Automatic Differentiation property.</description>
     </item>
     
     <item>
       <title>Inertia</title>
-      <link>http://localhost:1313/posts/inertia/</link>
+      <link>https://gutofarias.github.io/braindump/posts/inertia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/inertia/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/inertia/</guid>
       <description>Eu não sei se a matriz de inércia é mal compreendida ou se sou eu que não entendo direito. Claro que entendo que tem a ver com como a massa é distribuída, mas mesmo assim parece algo um tanto quanto misterioso.
 A idéia aqui é tentar entender a matriz de inércia fazendo uma analogia com o que o operador \(m \, d/d\varepsilon\) faz com um vetor de velocidade linear, isto é, transforma de uma grandeza de Pure Vector para uma grandeza de Line Vector.</description>
     </item>
     
     <item>
       <title>Inertial Frame</title>
-      <link>http://localhost:1313/posts/inertial_frame/</link>
+      <link>https://gutofarias.github.io/braindump/posts/inertial_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/inertial_frame/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/inertial_frame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integration with Successive Screws Method - Davies Method for Dynamics</title>
-      <link>http://localhost:1313/posts/integration_with_successive_screws_method_davies_method_for_dynamics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/integration_with_successive_screws_method_davies_method_for_dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/integration_with_successive_screws_method_davies_method_for_dynamics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/integration_with_successive_screws_method_davies_method_for_dynamics/</guid>
       <description>Quando calculamos os \(\hat{s}\) das juntas, esse eixo, pela modelagem, deve ser escrito no referencial móvel. Isso pode dificultar um pouco para problemas em 3d e com muitos referenciais.
 Será que é possível incorporar o método dos helicóides successivos?</description>
     </item>
     
     <item>
       <title>Inverse Kinematics</title>
-      <link>http://localhost:1313/posts/inverse_kinematics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/inverse_kinematics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/inverse_kinematics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/inverse_kinematics/</guid>
       <description>Obtain the joints variables value from the pose of the end-effector. It is dificult to obtain, specially to serial robots due to possibly having multiple solutions.</description>
     </item>
     
     <item>
       <title>ivy-bibtex</title>
-      <link>http://localhost:1313/posts/ivy_bibtex/</link>
+      <link>https://gutofarias.github.io/braindump/posts/ivy_bibtex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ivy_bibtex/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/ivy_bibtex/</guid>
       <description>source https://github.com/tmalsburg/helm-bibtex  O pacote permite procurar pelas suas referências a partir de um .bib especificado, encontrar os pdfs (a partir de uma pasta ou a bibkey &amp;ldquo;File&amp;rdquo;), encontrar o arquivo de anotações relativo (tem que ver como integrar com org-noter), gerar as citações, entre outros.
 Irei usar em conjunto com o Zotero. Esse vai gerar os .bib com o campo de &amp;ldquo;File&amp;rdquo; que vão alimentar o ivy-bibtex.
 Eu uso o storage padrão do zotero, então os pdfs ficam organizados numa estrutura própria do zotero.</description>
@@ -1106,85 +1106,85 @@ Eu uso o storage padrão do zotero, então os pdfs ficam organizados numa estrut
     
     <item>
       <title>Jacobian Matrix</title>
-      <link>http://localhost:1313/posts/jacobian_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/jacobian_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/jacobian_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/jacobian_matrix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jianguo2017 | Nonrigidly Foldability Analysis of Kresling Cylindrical Origami</title>
-      <link>http://localhost:1313/posts/jianguo2017/</link>
+      <link>https://gutofarias.github.io/braindump/posts/jianguo2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/jianguo2017/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/jianguo2017/</guid>
       <description>The paper studies the rigid foldability of a cylindrical origami with Kresling patterns concluding that it is not rigidly foldable. DQs are used in the method that analyses the ridid foldability.
 Info Rigid origami is seen as a fundamental model in many self-folding machines. A key issue in designing origami is the rigid/non-rigid foldability. The kinematic and foldability of Kresling origami, which is based on an origami pattern of the vertex with six creases, are studied in this paper.</description>
     </item>
     
     <item>
       <title>Joint Space</title>
-      <link>http://localhost:1313/posts/joint_space/</link>
+      <link>https://gutofarias.github.io/braindump/posts/joint_space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/joint_space/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/joint_space/</guid>
       <description>Is the space (in a vector space sense) of the joints, represented as a vector which each component is a joint variable.</description>
     </item>
     
     <item>
       <title>Joints</title>
-      <link>http://localhost:1313/posts/joints/</link>
+      <link>https://gutofarias.github.io/braindump/posts/joints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/joints/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/joints/</guid>
       <description>Mechanical components that connects two links restricting the relative movement of the two links somehow.</description>
     </item>
     
     <item>
       <title>Joints taken in succession - Davies Method for Dynamics</title>
-      <link>http://localhost:1313/posts/joints_taken_in_succession_davies_method_for_dynamics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/joints_taken_in_succession_davies_method_for_dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/joints_taken_in_succession_davies_method_for_dynamics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/joints_taken_in_succession_davies_method_for_dynamics/</guid>
       <description>The joints should be considered as joints in succession. The next joint is build on the updated reference frame of the previous joint.
 When testing the equations, the result I obtained was as if the joint variables were considered as measured by the previous mobile reference frame, not as being measured against the inertial frame.</description>
     </item>
     
     <item>
       <title>Kalman Filter</title>
-      <link>http://localhost:1313/posts/kalman_filter/</link>
+      <link>https://gutofarias.github.io/braindump/posts/kalman_filter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kalman_filter/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/kalman_filter/</guid>
       <description>A type of estimator applicable only to linear systems.
 Elaborate further.</description>
     </item>
     
     <item>
       <title>Kinematic Chains</title>
-      <link>http://localhost:1313/posts/kinematic_chains/</link>
+      <link>https://gutofarias.github.io/braindump/posts/kinematic_chains/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kinematic_chains/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/kinematic_chains/</guid>
       <description>Chain of links and joints going from one base link to one end link (called end-effector)</description>
     </item>
     
     <item>
       <title>Kirchhoff Voltage Law - Davies Method</title>
-      <link>http://localhost:1313/posts/kirchhoff_voltage_law_davies_method/</link>
+      <link>https://gutofarias.github.io/braindump/posts/kirchhoff_voltage_law_davies_method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kirchhoff_voltage_law_davies_method/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/kirchhoff_voltage_law_davies_method/</guid>
       <description>We start with a Graph containing a loop defined by a string. Follow the string in the direction of its arrow and go around the loop. You should account with a +1 each edge which the arrow is aligned with the direction you are following. And with -1 each arrow that goes against the direction you are following.</description>
     </item>
     
     <item>
       <title>Learning Elm</title>
-      <link>http://localhost:1313/posts/learning_elm/</link>
+      <link>https://gutofarias.github.io/braindump/posts/learning_elm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/learning_elm/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/learning_elm/</guid>
       <description>Material for learning Elm.
 Good sources:
  https://guide.elm-lang.org/ https://github.com/dwyl/learn-elm https://github.com/dwyl/learn-elm-architecture-in-javascript https://terezka.github.io/line-charts/ https://github.com/elm/svg https://github.com/johnpmayer/elm-webgl https://youtu.be/x1FU3e0sT1I (&amp;ldquo;Make Data Structures&amp;rdquo; by Richard Feldman) https://github.com/evancz/elm-todomvc https://github.com/sporto/awesome-elm  Seria bom depois ver como funciona o Hot Swapping (Elm) em Elm. Html to Elm (Elm)
@@ -1195,66 +1195,66 @@ Para fazer gráficos eu tenho várias opções como GraphicSVG, elm-playground, 
     
     <item>
       <title>lee_optimal_2015 | Optimal Power Descent Guidance with 6-DoF Line of Sight Constraints via Unit Dual Quaternions</title>
-      <link>http://localhost:1313/posts/lee_optimal_2015/</link>
+      <link>https://gutofarias.github.io/braindump/posts/lee_optimal_2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/lee_optimal_2015/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/lee_optimal_2015/</guid>
       <description>tags Dual Quaternions Applications  Não li porque parece ser muito similar ao trabalho lee_constrained_2017, sendo o mesmo tema com os mesmos autores. Parece ser o mesmo trabalho mas um foi pra congresso e o outro pra revista.
 Info Notes Resumo Não li porque parece ser muito similar ao trabalho lee_constrained_2017, sendo o mesmo tema com os mesmos autores. Parece ser o mesmo trabalho mas um foi pra congresso e o outro pra revista.</description>
     </item>
     
     <item>
       <title>Line Vector</title>
-      <link>http://localhost:1313/posts/line_vector/</link>
+      <link>https://gutofarias.github.io/braindump/posts/line_vector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/line_vector/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/line_vector/</guid>
       <description>Uma grandeza chamada de vetor linha dentro do contexto de Screw Theory é uma grandeza que possui sua aplicação definida por um eixo, como a velocidade angular de um corpo, em que o corpo gira em relação a um eixo e a velocidade linear como efeito dessa rotação aumenta conforme a distância em relação ao eixo. De forma análoga temos a força que possui uma linha de ação e gera momento.</description>
     </item>
     
     <item>
       <title>Line-of-Sight Restriction</title>
-      <link>http://localhost:1313/posts/line_of_sight_restriction/</link>
+      <link>https://gutofarias.github.io/braindump/posts/line_of_sight_restriction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/line_of_sight_restriction/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/line_of_sight_restriction/</guid>
       <description>The restriction that a spacecraft has to approach its destination through and angle that allows its instruments to see/detect the destination.</description>
     </item>
     
     <item>
       <title>Links (Mechanism)</title>
-      <link>http://localhost:1313/posts/links_mechanism/</link>
+      <link>https://gutofarias.github.io/braindump/posts/links_mechanism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/links_mechanism/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/links_mechanism/</guid>
       <description>Individual bodies that compose a mechanism, are connected one to other by joints.</description>
     </item>
     
     <item>
       <title>literature notes</title>
-      <link>http://localhost:1313/posts/literature_notes/</link>
+      <link>https://gutofarias.github.io/braindump/posts/literature_notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/literature_notes/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/literature_notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Loss of continuity in mobile frames - Davies Method for Dynamics</title>
-      <link>http://localhost:1313/posts/loss_of_continuity_in_mobile_frames_davies_method_for_dynamics/</link>
+      <link>https://gutofarias.github.io/braindump/posts/loss_of_continuity_in_mobile_frames_davies_method_for_dynamics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/loss_of_continuity_in_mobile_frames_davies_method_for_dynamics/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/loss_of_continuity_in_mobile_frames_davies_method_for_dynamics/</guid>
       <description>No caso de um guindaste a lança é articulada mas o cabo vai sempre na direção da gravidade. Isso causa um quebra na continuidade, porque apesar de eu poder mover a lança, isso não muda a direção do cabo que vem posterior. O referencial do cabo é independente dos referenciais anteriores.
 Tinha descrito uma opção de quebra de continuidade, onde quando ocorresse a quebra, a próxima velocidade dual seria da soma do elo anterior com um acréscimo de um termo novo.</description>
     </item>
     
     <item>
       <title>luh1980 | Resolved-acceleration control of mechanical manipulators</title>
-      <link>http://localhost:1313/posts/luh1980/</link>
+      <link>https://gutofarias.github.io/braindump/posts/luh1980/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/luh1980/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/luh1980/</guid>
       <description>The work that introduces Resolved-Acceleration Control.
 Eu li, é bem interessante e bom de ler. Em resumo, ele mostra de forma didática como realizar o controle de um manipulador robótico e todas as etapas de manipulação algébrica necessárias enquanto apresenta a técnica que propõe. O artigo é de 1980.
 Info Notes </description>
@@ -1262,141 +1262,141 @@ Info Notes </description>
     
     <item>
       <title>Lyapunov Stability Analysis</title>
-      <link>http://localhost:1313/posts/lyapunov_stability_analysis/</link>
+      <link>https://gutofarias.github.io/braindump/posts/lyapunov_stability_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/lyapunov_stability_analysis/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/lyapunov_stability_analysis/</guid>
       <description>Lyapunov formulated a theory for analysing the stability of general systems, which consists of proposing a energy function to the system and proving that this energy function always decreases to zero.
 Elaborate further.</description>
     </item>
     
     <item>
       <title>Maneuver Regulation</title>
-      <link>http://localhost:1313/posts/maneuver_regulation/</link>
+      <link>https://gutofarias.github.io/braindump/posts/maneuver_regulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/maneuver_regulation/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/maneuver_regulation/</guid>
       <description>The goal of a maneuver regulation is to track a desired trajectory, but it differs from a Trajectory Tracking task in the sense that a trajectory is locked in time and a maneuver regulation is not. Imagine a circular trajectory, if you are in the circle but according to the time your trajectory should be in the opposite side of the circle. That would be a problem for a trajectory tracking, but a maneuver regulation can just perform a time warping so that you can match the trajectory already where you are.</description>
     </item>
     
     <item>
       <title>Mechanisms</title>
-      <link>http://localhost:1313/posts/mechanisms/</link>
+      <link>https://gutofarias.github.io/braindump/posts/mechanisms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/mechanisms/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/mechanisms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mirandadefarias2019 | Performance Study on dqRNEA  A Novel Dual Quaternion Based Recursive Newton-Euler Inverse Dynamics Algorithms</title>
-      <link>http://localhost:1313/posts/mirandadefarias2019/</link>
+      <link>https://gutofarias.github.io/braindump/posts/mirandadefarias2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/mirandadefarias2019/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/mirandadefarias2019/</guid>
       <description>The work do a performace study on an Recursive Newton-Euler Inverse Dynamics Algorithm using dual quaternions. The algorithm uses Newton-Euler formulation to compute the kinematics and given the desired accelerations and external forces, computes the necessary torques of the motors to drive the system.
 They use dual quaternions in the kinematics and kinetics, for the inertia they create an inertia function (so not explicitily a matrix). They use a screw theory approach for the kinematics, not using DH.</description>
     </item>
     
     <item>
       <title>Mobile Reference Frame</title>
-      <link>http://localhost:1313/posts/mobile_reference_frame/</link>
+      <link>https://gutofarias.github.io/braindump/posts/mobile_reference_frame/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/mobile_reference_frame/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/mobile_reference_frame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Graph</title>
-      <link>http://localhost:1313/posts/motion_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/motion_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/motion_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/motion_graph/</guid>
       <description>Start with the Tree Graph with the strings included as dashed edges. Replace each edge by f_i edges in series (you can create virtual nodes just to acomodate the edges in series), one for each degree of freedom that the joint i allows. The replaced edges carry a twist also related to the movement it allows.
 The twits can be constructed by Twist of a Joint, but at the motion graph they should be only refered by a symbol.</description>
     </item>
     
     <item>
       <title>Motion Interpolation</title>
-      <link>http://localhost:1313/posts/motion_interpolation/</link>
+      <link>https://gutofarias.github.io/braindump/posts/motion_interpolation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/motion_interpolation/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/motion_interpolation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Network Matrix</title>
-      <link>http://localhost:1313/posts/motion_network_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/motion_network_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/motion_network_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/motion_network_matrix/</guid>
       <description>Start from the Circuits Matrix (B) and replace each element of it with the corresponding twist (read the OBS) times the value of the element in B.
 OBS.: Actually it uses not the whole twist, just the screw associated with the twist.</description>
     </item>
     
     <item>
       <title>Moving Horizon Estimator (MHE)</title>
-      <link>http://localhost:1313/posts/moving_horizon_estimator_mhe/</link>
+      <link>https://gutofarias.github.io/braindump/posts/moving_horizon_estimator_mhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/moving_horizon_estimator_mhe/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/moving_horizon_estimator_mhe/</guid>
       <description>An algorithm for estimation that uses a moving horizon strategy similar to MPC, taking into account a window/horizon of past values in order to come up with an estimation.</description>
     </item>
     
     <item>
       <title>Multiaffine Equations</title>
-      <link>http://localhost:1313/posts/multiaffine_equations/</link>
+      <link>https://gutofarias.github.io/braindump/posts/multiaffine_equations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/multiaffine_equations/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/multiaffine_equations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networks Graphs</title>
-      <link>http://localhost:1313/posts/networks_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/networks_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/networks_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/networks_graph/</guid>
       <description>In Davies Method, the Networks Graphs are made using the Motion Graph without the strings, then we add one string at a time to form the graphs with a loop.</description>
     </item>
     
     <item>
       <title>Newton-Euler Method</title>
-      <link>http://localhost:1313/posts/newton_euler_method/</link>
+      <link>https://gutofarias.github.io/braindump/posts/newton_euler_method/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/newton_euler_method/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/newton_euler_method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nondirectional Edge</title>
-      <link>http://localhost:1313/posts/nondirectional_edge/</link>
+      <link>https://gutofarias.github.io/braindump/posts/nondirectional_edge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/nondirectional_edge/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/nondirectional_edge/</guid>
       <description>Edge that does not point to a node. Simply a line, without arrow.</description>
     </item>
     
     <item>
       <title>oh_study_2017 | Study on Robot Trajectory Planning by Robot End-Effector Using Dual Curvature Theory of the Ruled Surface</title>
-      <link>http://localhost:1313/posts/oh_study_2017/</link>
+      <link>https://gutofarias.github.io/braindump/posts/oh_study_2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/oh_study_2017/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/oh_study_2017/</guid>
       <description>tags Dual Quaternions Applications  The work describes the trajectory of the robot&amp;rsquo;s end effector by using Differential Geometry and Dual Curvature Theory instead of Motion Interpolation. The author claims that it makes the expressions simpler and intuitive.
 Info This paper presents the method of trajectory planning by the robot end-effector which accounts for more accurate and smooth differential geometry of the ruled surface generated by tool line fixed with end-effector based on the methods of curvature theory of ruled surface and the dual curvature theory, and focuses on the underlying relation to unite them for enhancing the efficiency for trajectory planning.</description>
     </item>
     
     <item>
       <title>Org Roam Bibtex (ORB)</title>
-      <link>http://localhost:1313/posts/org_roam_bibtex_orb/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_roam_bibtex_orb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_roam_bibtex_orb/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_roam_bibtex_orb/</guid>
       <description>source https://github.com/org-roam/org-roam-bibtex  Pelo que entendi esse pacote integra o ivy-bibtex e org-ref com o org-roam. Nesse caso, as citações produzidas a partir dos links criados com org-ref, aparecem no org-roam como &amp;ldquo;cite backlinks&amp;rdquo; separados dos backlinks normais.
 Isso permite uma dinâmica especial separando os backlinks do que for literature notes e do que for permanent notes no método Zettelkasten.
 Talvez seja pertinente citar as literature notes e linkar as permanent notes.</description>
@@ -1404,46 +1404,46 @@ Talvez seja pertinente citar as literature notes e linkar as permanent notes.</d
     
     <item>
       <title>org-capture</title>
-      <link>http://localhost:1313/posts/org_capture/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_capture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_capture/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_capture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>org-cliplink</title>
-      <link>http://localhost:1313/posts/org_cliplink/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_cliplink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_cliplink/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_cliplink/</guid>
       <description>source https://github.com/rexim/org-cliplink  Inserts the link in clipboard nicely, using the page’s title</description>
     </item>
     
     <item>
       <title>org-download</title>
-      <link>http://localhost:1313/posts/org_download/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_download/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_download/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_download/</guid>
       <description>source https://github.com/abo-abo/org-download  easy insertion of images from link locations and screenshots</description>
     </item>
     
     <item>
       <title>org-link</title>
-      <link>http://localhost:1313/posts/org_link/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_link/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_link/</guid>
       <description></description>
     </item>
     
     <item>
       <title>org-noter</title>
-      <link>http://localhost:1313/posts/org_noter/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_noter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_noter/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_noter/</guid>
       <description>source https://github.com/weirdNox/org-noter  Permite relacionar um arquivo org a um pdf. O org é usado como um arquivo pra manter as anotações relacionadas ao pdf.
 O org-noter é tão bom que ele sabe onde estão as notas do pdf e se passarmos pela nota no pdf ele dá highlight no org e vice-versa.
 Ele gera links pra a página ou numa altura específica, porém são links que só valem pro org-noter.</description>
@@ -1451,10 +1451,10 @@ Ele gera links pra a página ou numa altura específica, porém são links que s
     
     <item>
       <title>org-noter-pdftools</title>
-      <link>http://localhost:1313/posts/org_noter_pdftools/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_noter_pdftools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_noter_pdftools/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_noter_pdftools/</guid>
       <description>source https://github.com/fuxialexander/org-pdftools  Está no mesmo site do org-pdftools
 Add integration between org-pdftools and org-noter.
 O org-noter-pdftools faz o org-noter no lugar de usar os links próprios, usar os links do org-pdftools.</description>
@@ -1462,20 +1462,20 @@ O org-noter-pdftools faz o org-noter no lugar de usar os links próprios, usar o
     
     <item>
       <title>org-pdftools</title>
-      <link>http://localhost:1313/posts/org_pdftools/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_pdftools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_pdftools/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_pdftools/</guid>
       <description>source https://github.com/fuxialexander/org-pdftools  Add support for org links from pdftools buffers with more precise location control.
 O org-pdftools adiciona links pra pdfs no formato org-link. São links bem complexos que podem ser pra página, posição na página, anotações, buscas no pdf, etc.</description>
     </item>
     
     <item>
       <title>org-protocol</title>
-      <link>http://localhost:1313/posts/org_protocol/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_protocol/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_protocol/</guid>
       <description>source https://orgmode.org/worg/org-contrib/org-protocol.html  Ultimate Org Capture - Chrome Web Store
 O org-protocol permite que ações fora do emacs acionem (via emacsclient) um chamado pro emacs que será passado pra org.
 Por exemplo: salvar um link de um site que esteja visitando por meio do org-store-link.
@@ -1484,10 +1484,10 @@ O org-protocol vem com três tipos de links org-protocol-store-link, org-protoco
     
     <item>
       <title>org-protocol instalação</title>
-      <link>http://localhost:1313/posts/org_protocol_instalacao/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_protocol_instalacao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_protocol_instalacao/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_protocol_instalacao/</guid>
       <description>source https://www.orgroam.com/manual.html  Configuração no Sistema Segue os passos:
   Abre o Editor de Scripts e coloca o seguinte script (alterando o path do emacsclient)
 on open location this_URL  set EC to &amp;#34;/usr/local/bin/emacsclient --no-wait &amp;#34;  set filePath to quoted form of this_URL  do shell script EC &amp;amp; filePath  tell application &amp;#34;Emacs&amp;#34; to activate end open location   Salva o script com o nome de &amp;ldquo;org-protocol.</description>
@@ -1495,66 +1495,66 @@ on open location this_URL  set EC to &amp;#34;/usr/local/bin/emacsclient --no-wa
     
     <item>
       <title>org-protocol-capture</title>
-      <link>http://localhost:1313/posts/org_protocol_capture/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_protocol_capture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_protocol_capture/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_protocol_capture/</guid>
       <description>Acionado pelo sub-protocolo &amp;ldquo;capture&amp;rdquo;, usa dados da página pra salvar um capture template por meio do org-capture. Pode ser colocado por exemplo, o título, um link, uma seleção e também qual o template a ser usado.</description>
     </item>
     
     <item>
       <title>org-protocol-capture-html</title>
-      <link>http://localhost:1313/posts/org_protocol_capture_html/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_protocol_capture_html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_protocol_capture_html/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_protocol_capture_html/</guid>
       <description> source https://github.com/alphapapa/org-protocol-capture-html  </description>
     </item>
     
     <item>
       <title>org-protocol-open-source</title>
-      <link>http://localhost:1313/posts/org_protocol_open_source/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_protocol_open_source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_protocol_open_source/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_protocol_open_source/</guid>
       <description>Mapeia URLs pra arquivos locais. Útil para abrir documentos no emacs por uma ação dada por uma página.</description>
     </item>
     
     <item>
       <title>org-protocol-store-link</title>
-      <link>http://localhost:1313/posts/org_protocol_store_link/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_protocol_store_link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_protocol_store_link/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_protocol_store_link/</guid>
       <description>Usado por meio do protocolo &amp;ldquo;store-link&amp;rdquo;, ele salva um org-link como se tivesse usado org-store-link e guarda o link no kill-ring.</description>
     </item>
     
     <item>
       <title>org-ref</title>
-      <link>http://localhost:1313/posts/org_ref/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_ref/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_ref/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_ref/</guid>
       <description>source https://github.com/jkitchin/org-ref  O que o org-ref faz é adicionar links para citações por meio do cite:bibkey, labels por meio do label:labelkey e referencias por meio do ref:labelkey, sendo possível usar também autoref:labelkey (entre outros). Também é possível adicionar um arquivo bib e um estilo de bibliografia, assim como table of contents e table of figures.
 Tem outras funções mas acho que não irei usar. Essas que comentei são as mais importantes.</description>
     </item>
     
     <item>
       <title>org-roam</title>
-      <link>http://localhost:1313/posts/org_roam/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_roam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_roam/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_roam/</guid>
       <description>sources https://github.com/org-roam/org-roam, https://www.orgroam.com/  É um pacote que adiciona funcionalidades do Roam Research pra o org-mode. As funcionalidades são (entre outras):
  Backlinks Facilidade de criar e linkar anotações/arquivos/citações&amp;hellip;  O seu uso é pautado no método Zettelkasten.</description>
     </item>
     
     <item>
       <title>org-roam-dailies</title>
-      <link>http://localhost:1313/posts/org_roam_dailies/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_roam_dailies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_roam_dailies/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_roam_dailies/</guid>
       <description>Pelo que percebi, faz parte do org-roam.
 Não sei se deveria ter uma nota só pra ele mas qualquer coisa apago essa depois.
 A utilidade de utilizar o org-roam-dailies é para fazer anotações diárias sobre aquilo que está sendo trabalhado para depois processar essas anotações e gerar notas permanentes.
@@ -1563,120 +1563,120 @@ As notas geradas no org-roam-dailies são consideradas dentro do método de slip
     
     <item>
       <title>org-roam-protocol</title>
-      <link>http://localhost:1313/posts/org_roam_protocol/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_roam_protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_roam_protocol/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_roam_protocol/</guid>
       <description>Estende o org-protocol para adicionar dois tipos de links: roam-file protocol e roam-ref protocol.
 Obs.: Não é um pacote separado, já está incluso no org-roam.</description>
     </item>
     
     <item>
       <title>org-roam-server</title>
-      <link>http://localhost:1313/posts/org_roam_server/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_roam_server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_roam_server/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_roam_server/</guid>
       <description>source https://github.com/org-roam/org-roam-server  Cria um servidor em forma de html que mostra o grafo com as notas. O mesmo princípio do org-roam-graph porém muito melhor. A pessoa pode arrastar, visualizar os arquivos, filtras, etc. Muito massa a funcionalidade.
 Pra funcionar bem quando clicar e abrir diretamente o buffer respectivo no emacs é preciso ter instalado e configurado o método org-roam-protocol.</description>
     </item>
     
     <item>
       <title>org-store-link</title>
-      <link>http://localhost:1313/posts/org_store_link/</link>
+      <link>https://gutofarias.github.io/braindump/posts/org_store_link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/org_store_link/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/org_store_link/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ozgur2016 | Kinematic modeling and control of a robot arm using unit dual quaternions</title>
-      <link>http://localhost:1313/posts/ozgur2016/</link>
+      <link>https://gutofarias.github.io/braindump/posts/ozgur2016/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ozgur2016/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/ozgur2016/</guid>
       <description>Very interesting article of kinematic modeling and control of robotic arms. It uses a Screw Theory approach to model the kinematics, much like Successive Screws, but using only one frame, doesn&amp;rsquo;t need a convenient frame. Also the metodology is mind opening someway because the authors model the rotations from end-effector to base, and not the opositte, which in my opinion is easier to understand because going from end to base the successive rotations are not carried by the previous rotations.</description>
     </item>
     
     <item>
       <title>Parallel Mechanisms</title>
-      <link>http://localhost:1313/posts/parallel_mechanisms/</link>
+      <link>https://gutofarias.github.io/braindump/posts/parallel_mechanisms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/parallel_mechanisms/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/parallel_mechanisms/</guid>
       <description>Mechanisms that are composed of several kinematic chains which have the same start link and the same end link. They are called parallel because all the kinematic chains connect the same base link to the same end-effector. It also can be viewed as several Closed Kinematic Chains.</description>
     </item>
     
     <item>
       <title>Particle Filter</title>
-      <link>http://localhost:1313/posts/particle_filter/</link>
+      <link>https://gutofarias.github.io/braindump/posts/particle_filter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/particle_filter/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/particle_filter/</guid>
       <description>A type of Estimator similar to Unscented Kalman Filter but which can be used with any probability distribution (not only Gaussian).</description>
     </item>
     
     <item>
       <title>Path Planning</title>
-      <link>http://localhost:1313/posts/path_planning/</link>
+      <link>https://gutofarias.github.io/braindump/posts/path_planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/path_planning/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/path_planning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>permanent notes</title>
-      <link>http://localhost:1313/posts/permanent_notes/</link>
+      <link>https://gutofarias.github.io/braindump/posts/permanent_notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/permanent_notes/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/permanent_notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pham2018 | Set-point control of robot end-effector pose using dual quaternion feedback</title>
-      <link>http://localhost:1313/posts/pham2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/pham2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pham2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/pham2018/</guid>
       <description>The paper implements a set-point controller for an industrial 6DOF robot using Dual Quaternions. The authors computes the direct kinematics using DQ and differential kinematics using DQ as vectors in R8. The error equation is manipulated in order to obtain a matrix times a variable, but the matrix represents the system dynamics. This matrix is then writen in Laplace Domain and becomes a Transference Matrix, so Classic Control techniques can be used.</description>
     </item>
     
     <item>
       <title>Plucker Coordinates</title>
-      <link>http://localhost:1313/posts/plucker_coordinates/</link>
+      <link>https://gutofarias.github.io/braindump/posts/plucker_coordinates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/plucker_coordinates/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/plucker_coordinates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pose</title>
-      <link>http://localhost:1313/posts/pose/</link>
+      <link>https://gutofarias.github.io/braindump/posts/pose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pose/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/pose/</guid>
       <description>In the context of robotics it&amp;rsquo;s the information of position and orientation combined.</description>
     </item>
     
     <item>
       <title>Pose Estimation</title>
-      <link>http://localhost:1313/posts/pose_estimation/</link>
+      <link>https://gutofarias.github.io/braindump/posts/pose_estimation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pose_estimation/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/pose_estimation/</guid>
       <description>A type of estimation which estimates the pose (position + orientation) of a system</description>
     </item>
     
     <item>
       <title>Positiveness of a Tree Graph Cut</title>
-      <link>http://localhost:1313/posts/positiveness_of_a_tree_graph_cut/</link>
+      <link>https://gutofarias.github.io/braindump/posts/positiveness_of_a_tree_graph_cut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/positiveness_of_a_tree_graph_cut/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/positiveness_of_a_tree_graph_cut/</guid>
       <description>With a graph cutted and divided in two parts, you can then close a loop with your line cut. The loop should encompass the one part entirely (no matter which one of the two).
 Is the arrow of the branch you cutted inside your loop?
  If yes: all the cutted strings whose arrow are inside the loop will be positive. Otherwise negative. If no: all the cutted strings whose arrow are inside the loop will be negative.</description>
@@ -1684,101 +1684,101 @@ Is the arrow of the branch you cutted inside your loop?
     
     <item>
       <title>Powered Descent Guidance</title>
-      <link>http://localhost:1313/posts/powered_descent_guidance/</link>
+      <link>https://gutofarias.github.io/braindump/posts/powered_descent_guidance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/powered_descent_guidance/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/powered_descent_guidance/</guid>
       <description>I dont understand the restrictions of the problem but it is the problem of landing with a powered spacecraft. I have seen articles that talk about descending to the moon and I think to mars too.</description>
     </item>
     
     <item>
       <title>Prismatic Joint</title>
-      <link>http://localhost:1313/posts/prismatic_joint/</link>
+      <link>https://gutofarias.github.io/braindump/posts/prismatic_joint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/prismatic_joint/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/prismatic_joint/</guid>
       <description>Joint that only allows one relative translation of the links it connects. The translation is done along a defined axis.</description>
     </item>
     
     <item>
       <title>Pure Dual Number</title>
-      <link>http://localhost:1313/posts/pure_dual_number/</link>
+      <link>https://gutofarias.github.io/braindump/posts/pure_dual_number/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pure_dual_number/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/pure_dual_number/</guid>
       <description>A dual number at which the real part is 0.</description>
     </item>
     
     <item>
       <title>Pure Real Number</title>
-      <link>http://localhost:1313/posts/pure_real_number/</link>
+      <link>https://gutofarias.github.io/braindump/posts/pure_real_number/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pure_real_number/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/pure_real_number/</guid>
       <description>A dual number at which the dual part is 0.</description>
     </item>
     
     <item>
       <title>Pure Vector</title>
-      <link>http://localhost:1313/posts/pure_vector/</link>
+      <link>https://gutofarias.github.io/braindump/posts/pure_vector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pure_vector/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/pure_vector/</guid>
       <description>Uma grandeza chamada de vetor puro no contexto de Screw Theory é um vetor que a ação dele não possui uma posição definida nem tem um comportamento de linha. Por exemplo, um momento puro faz o mesmo efeito num corpo rígido não importa o local onde é aplicado, outro exemplo é a velocidade do centro de massa do corpo (é como se o corpo todo tivesse essa velocidade e o que for diferente for devido à rotação do corpo).</description>
     </item>
     
     <item>
       <title>Purescript</title>
-      <link>http://localhost:1313/posts/purescript/</link>
+      <link>https://gutofarias.github.io/braindump/posts/purescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/purescript/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/purescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quaternion</title>
-      <link>http://localhost:1313/posts/quaternion/</link>
+      <link>https://gutofarias.github.io/braindump/posts/quaternion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/quaternion/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/quaternion/</guid>
       <description>A quantity comprised of a scalar part and a vector part, the vector part has three components. Very useful for describing rotations in 3d space.</description>
     </item>
     
     <item>
       <title>Real Part</title>
-      <link>http://localhost:1313/posts/real_part/</link>
+      <link>https://gutofarias.github.io/braindump/posts/real_part/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/real_part/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/real_part/</guid>
       <description>The real part of a dual quantity (like a Dual Number) is the part that is not multiplied by \(\varepsilon\).</description>
     </item>
     
     <item>
       <title>Relative Jacobian</title>
-      <link>http://localhost:1313/posts/relative_jacobian/</link>
+      <link>https://gutofarias.github.io/braindump/posts/relative_jacobian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/relative_jacobian/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/relative_jacobian/</guid>
       <description>I didn&amp;rsquo;t understand very well, looks like a normal jacobian but maybe the jacobian of a relative motion of two frames.
 Used in chandra2018</description>
     </item>
     
     <item>
       <title>Rendezvous and Docking</title>
-      <link>http://localhost:1313/posts/rendezvous_and_docking/</link>
+      <link>https://gutofarias.github.io/braindump/posts/rendezvous_and_docking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/rendezvous_and_docking/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/rendezvous_and_docking/</guid>
       <description>It is the process of the approach and docking of a chaser spacecraft into a target spacecraft.</description>
     </item>
     
     <item>
       <title>Resolved-Acceleration Control</title>
-      <link>http://localhost:1313/posts/resolved_acceleration_control/</link>
+      <link>https://gutofarias.github.io/braindump/posts/resolved_acceleration_control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/resolved_acceleration_control/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/resolved_acceleration_control/</guid>
       <description>Is a method for task space control.
 It consists in compute the torques and forces using the second order (acceleration) kinematics of the system. In order to do that one has to plan a trajectory to have the desired kinematics of the end-effector. Then, compute the joints acceleration (using the end-effector kinematics) and then compute the torques and forces necessary to create such accelerations.
 The controller is presented in:
@@ -1787,38 +1787,38 @@ Luh, J.</description>
     
     <item>
       <title>reynolds2020 | Dual Quaternion-Based Powered Descent Guidance with State-Triggered Constraints</title>
-      <link>http://localhost:1313/posts/reynolds2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/reynolds2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/reynolds2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/reynolds2020/</guid>
       <description>I did not read the whole thing. It uses dual quaternions in the powered descent guidance problem. The article uses several restrictions in the control formulation, it uses a line-of-sight restriction (a new type they call slant-range-triggered line-of-sight), also a restriction as a window for the allowed values of the control effort (propulsion power). The control problem is solved through a nonconvex optimization problem.
 Info Notes Resumo Não cheguei a ler todo.</description>
     </item>
     
     <item>
       <title>roam-file protocol</title>
-      <link>http://localhost:1313/posts/roam_file_protocol/</link>
+      <link>https://gutofarias.github.io/braindump/posts/roam_file_protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/roam_file_protocol/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/roam_file_protocol/</guid>
       <description>Acionado pelo sub-protocol &amp;ldquo;roam-file&amp;rdquo;. Abre o path especificado pela key &amp;ldquo;file&amp;rdquo;. É usado nos grafos gerados.</description>
     </item>
     
     <item>
       <title>roam-ref protocol</title>
-      <link>http://localhost:1313/posts/roam_ref_protocol/</link>
+      <link>https://gutofarias.github.io/braindump/posts/roam_ref_protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/roam_ref_protocol/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/roam_ref_protocol/</guid>
       <description>Acionado pelo sub-protocolo &amp;ldquo;roam-ref&amp;rdquo;, acha ou cria uma literature notes com a ROAM_KEY dada pelo url.</description>
     </item>
     
     <item>
       <title>Root Mean Square Error</title>
-      <link>http://localhost:1313/posts/root_mean_square_error/</link>
+      <link>https://gutofarias.github.io/braindump/posts/root_mean_square_error/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/root_mean_square_error/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/root_mean_square_error/</guid>
       <description>This error is given by: \[ RSME = \sqrt \frac{\sum^{N}_{1} [e(i) - \hat{e}(i)]^2}{N} \]
 Where:
  \(N\) Data number \(e(i)\) Error at datum i \(\hat{e}(i)\) Predicted error at datum i  </description>
@@ -1826,56 +1826,56 @@ Where:
     
     <item>
       <title>Rotation Joint</title>
-      <link>http://localhost:1313/posts/rotation_oint/</link>
+      <link>https://gutofarias.github.io/braindump/posts/rotation_oint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/rotation_oint/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/rotation_oint/</guid>
       <description>Joint that only allows one relative rotation of the links it connects. The rotation is done around a defined axis.</description>
     </item>
     
     <item>
       <title>Ruled Surface</title>
-      <link>http://localhost:1313/posts/ruled_surface/</link>
+      <link>https://gutofarias.github.io/braindump/posts/ruled_surface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ruled_surface/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/ruled_surface/</guid>
       <description></description>
     </item>
     
     <item>
       <title>schilling2019 | Hierarchical Dual Quaternion-Based Recurrent Neural Network as a Flexible Internal Body Model</title>
-      <link>http://localhost:1313/posts/schilling2019/</link>
+      <link>https://gutofarias.github.io/braindump/posts/schilling2019/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/schilling2019/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/schilling2019/</guid>
       <description>The author uses Mean of Multiple Computations (MMC) as a hierarchical recurrent neural network to model a redundant robot. The technique generates a lot of simple equations that converge to a feasible solution where there are many ways for the same pose of the end-effector. Using dual quaternions components in the neural network, the author can approximate transformations by interpolation, which is shown to be a great advantage of DQs. At the end, the author shows the viability of the proposed solution applying it to a complex robot consisting of two arms each having 7 DoF.</description>
     </item>
     
     <item>
       <title>schwung2021 | Rigid Body Movement Prediction Using Dual Quaternion Recurrent Neural Networks</title>
-      <link>http://localhost:1313/posts/schwung2021/</link>
+      <link>https://gutofarias.github.io/braindump/posts/schwung2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/schwung2021/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/schwung2021/</guid>
       <description>The work uses Dual-Quaternions Neural Networks to predict the behavior (physics) of a simulated system of masses inside a box. So the neural network predicts rigid body movement.
 The authors say that using DQ in a neural network allows to incorporate physical bias into the prediction task. I.e., just by using the DQ we are already favoring the task of rigid body movement prediction, due to how DQ relates to this task.</description>
     </item>
     
     <item>
       <title>Screw</title>
-      <link>http://localhost:1313/posts/screw/</link>
+      <link>https://gutofarias.github.io/braindump/posts/screw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/screw/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/screw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Screw Calculus</title>
-      <link>http://localhost:1313/posts/screw_calculus/</link>
+      <link>https://gutofarias.github.io/braindump/posts/screw_calculus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/screw_calculus/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/screw_calculus/</guid>
       <description>Ainda não li nada sobre. O nome me chamou atenção
 Será que existe um jacobiano dual quaternionico? Feito utilizando screw calculus?
 Yang, A.T., &amp;ldquo;Calculus of Screws,&amp;rdquo; Basic Questions of Design Theory, (edited by W.R. Spiller), American Elsevier Publishing Co., Inc., New York, 1974, pp. 265-281. (vi em hsia_principle_1981)</description>
@@ -1883,223 +1883,223 @@ Yang, A.T., &amp;ldquo;Calculus of Screws,&amp;rdquo; Basic Questions of Design 
     
     <item>
       <title>Screw Theory</title>
-      <link>http://localhost:1313/posts/screw_theory/</link>
+      <link>https://gutofarias.github.io/braindump/posts/screw_theory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/screw_theory/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/screw_theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serial Mechanism</title>
-      <link>http://localhost:1313/posts/serial_mechanism/</link>
+      <link>https://gutofarias.github.io/braindump/posts/serial_mechanism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/serial_mechanism/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/serial_mechanism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Set-Point Controller</title>
-      <link>http://localhost:1313/posts/set_point_controller/</link>
+      <link>https://gutofarias.github.io/braindump/posts/set_point_controller/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/set_point_controller/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/set_point_controller/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shabani2021 | A branch-and-prune method to solve closure equations in dual quaternions</title>
-      <link>http://localhost:1313/posts/shabani2021/</link>
+      <link>https://gutofarias.github.io/braindump/posts/shabani2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/shabani2021/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/shabani2021/</guid>
       <description>tags Dual Quaternions Applications  The authors uses dual quaternions to formulate closure loop equations as a system of multiaffine equations, they then introduce a new branch-and-prune method tailored to this type of equations to solve the system which can reduce computing time up to 2 orders of magnitude compared to traditional approaches.
 Info Notes Resumo O autor resolve equações de fechamento de loops cinemáticos de uma forma mais eficiente usando quatérnios duais.</description>
     </item>
     
     <item>
       <title>silva2018 | Whole-body Control of a Mobile Manipulator Using Feedback Linearization and Dual Quaternion Algebra</title>
-      <link>http://localhost:1313/posts/silva2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/silva2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/silva2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/silva2018/</guid>
       <description>The papers proposes a whole-body control using Feedback Linearization in a DQ framework. Experiments are made using a nonholonomic mobile ground vehicle with 5-DOF manipulator arm.
 Info This paper presents the whole-body control of a nonholonomic mobile manipulator using feedback linearization and dual quaternion algebra. The controller, whose reference is a unit dual quaternion representing the desired end-effector pose, acts as a dynamic trajectory generator for the end-effector, and input signals for both nonholonomic mobile base and manipulator arm are generated by using the pseudoinverse of the whole-body Jacobian matrix.</description>
     </item>
     
     <item>
       <title>Simultaneous Localization and Mapping (SLAM)</title>
-      <link>http://localhost:1313/posts/simultaneous_localization_and_mapping_slam/</link>
+      <link>https://gutofarias.github.io/braindump/posts/simultaneous_localization_and_mapping_slam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/simultaneous_localization_and_mapping_slam/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/simultaneous_localization_and_mapping_slam/</guid>
       <description>Simultaneous Localization and Mapping also known as SLAM uses the on-board sensors of a mobile robot to make sense of its surrounds, building a map as it moves.</description>
     </item>
     
     <item>
       <title>Skew-Symmetric Matrix</title>
-      <link>http://localhost:1313/posts/skew_symmetric_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/skew_symmetric_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/skew_symmetric_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/skew_symmetric_matrix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sliding Modes</title>
-      <link>http://localhost:1313/posts/sliding_modes/</link>
+      <link>https://gutofarias.github.io/braindump/posts/sliding_modes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sliding_modes/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/sliding_modes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>stianandersen2018 | Dual-quaternion backstepping control for a fully-actuated rigid-body</title>
-      <link>http://localhost:1313/posts/stianandersen2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/stianandersen2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/stianandersen2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/stianandersen2018/</guid>
       <description>The work proposes a Backstepping controller for a fully actuated rigid-body using Dual Quaternions. The controller is proved to be asymptotically stable using Lyapunov.
 Info In this paper dual-quaternions are used to model a fully actuated rigid-body. A backstepping-controller that solves the trajectory tracking problem is derived and proved to provide uniform asymptotical stabilization of the error dynamics. Numerical simulations are provided where the controller is compared to existing dual-quaternion tracking controllers and it is shown to have similar performance.</description>
     </item>
     
     <item>
       <title>Strings in a Tree Graph</title>
-      <link>http://localhost:1313/posts/strings_in_a_tree_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/strings_in_a_tree_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/strings_in_a_tree_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/strings_in_a_tree_graph/</guid>
       <description>When performing a Transforming a graph into a tree, the arcs or strings are the edges that are excluded from the graph in order to make the tree.</description>
     </item>
     
     <item>
       <title>Study parameters</title>
-      <link>http://localhost:1313/posts/study_parameters/</link>
+      <link>https://gutofarias.github.io/braindump/posts/study_parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/study_parameters/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/study_parameters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Successive Screws</title>
-      <link>http://localhost:1313/posts/successive_screws/</link>
+      <link>https://gutofarias.github.io/braindump/posts/successive_screws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/successive_screws/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/successive_screws/</guid>
       <description>Convenient Frame</description>
     </item>
     
     <item>
       <title>sun2020 | Dual quaternion based dynamics modeling for electromagnetic collocated satellites of diffraction imaging on geostationary orbit</title>
-      <link>http://localhost:1313/posts/sun2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/sun2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sun2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/sun2020/</guid>
       <description>tags Dual Quaternions Applications  Uses dual quaternions to model an eletromagnetic force with applications in satellites. Also derives the dynamics equations of the satellites subject to this force.
 Info This paper proposes an innovated approach to model an electromagnetic force which is an ideal control force without plume and light pollution for optical imaging system. The main scope is modeling the 3-axis coupled electromagnetic force using dual quaternion for its advantages in describing spiral motion with translation and rotation motion simultaneously.</description>
     </item>
     
     <item>
       <title>sveier2018 | Pose Estimation using Dual Quaternions and Moving Horizon Estimation</title>
-      <link>http://localhost:1313/posts/sveier2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/sveier2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sveier2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/sveier2018/</guid>
       <description>The author presents a Moving Horizon Estimator for pose estimation using Dual Quaternions. They were able to formulate the cost function in terms of the DQ product and so satisfying the unitaryness constraint. Also they discretize the DQ and used a Caley transform presented in an article of Selig. The resulting estimator was more accurate them DQ-MEKF (DQ Multiplicative Extended Kalman Filter) and T-UKF (Twistor-bases Unscented Kalman Filter) which the author attributes to the moving horizon strategy (so not only the last result is used).</description>
     </item>
     
     <item>
       <title>sveier2020 | Dual Quaternion Particle Filtering for Pose Estimation</title>
-      <link>http://localhost:1313/posts/sveier2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/sveier2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/sveier2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/sveier2020/</guid>
       <description>The authors develop a Dual Quaternion Particle Filter and test it in the pose estimation of a hanging payload using point clouds data from a Kinect. The pose estimation is then validated showing accurate results.
 Info This article presents a particle filter for pose estimation using unit dual quaternion kinematics. The eight-parameter unit dual quaternion is used for global representation of the pose, whereas the six parameters of the dual modified Rodrigues parameters (MRPs) are used for local pose representation in the state-space model.</description>
     </item>
     
     <item>
       <title>System Matrix</title>
-      <link>http://localhost:1313/posts/system_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/system_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/system_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/system_matrix/</guid>
       <description>Consider:
  \(M_N \rightarrow\) Motion Network Matrix \(M_A \rightarrow\) Action Network Matrix \(C_{T\omega} \rightarrow\) Coupled Equations Matrix  \[M_S = \begin{bmatrix}&amp;amp; M_N &amp;amp;&amp;amp; 0 &amp;amp; \\ &amp;amp; 0 &amp;amp;&amp;amp; A_N &amp;amp; \&amp;amp;&amp;amp; C_{T\omega} &amp;amp;&amp;amp; \end{bmatrix}\]</description>
     </item>
     
     <item>
       <title>Task Space</title>
-      <link>http://localhost:1313/posts/task_space/</link>
+      <link>https://gutofarias.github.io/braindump/posts/task_space/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/task_space/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/task_space/</guid>
       <description>Is the space (in a vector space sense) of the task, represented as the position and orientation of the End Effector.</description>
     </item>
     
     <item>
       <title>Trajectory Tracking</title>
-      <link>http://localhost:1313/posts/trajectory_tracking/</link>
+      <link>https://gutofarias.github.io/braindump/posts/trajectory_tracking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/trajectory_tracking/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/trajectory_tracking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transference Matrix</title>
-      <link>http://localhost:1313/posts/transference_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/transference_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/transference_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/transference_matrix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transference Principle</title>
-      <link>http://localhost:1313/posts/transference_principle/</link>
+      <link>https://gutofarias.github.io/braindump/posts/transference_principle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/transference_principle/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/transference_principle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transformation Matrix</title>
-      <link>http://localhost:1313/posts/transformation_matrix/</link>
+      <link>https://gutofarias.github.io/braindump/posts/transformation_matrix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/transformation_matrix/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/transformation_matrix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transforming a graph into a tree</title>
-      <link>http://localhost:1313/posts/transforming_a_graph_into_a_tree/</link>
+      <link>https://gutofarias.github.io/braindump/posts/transforming_a_graph_into_a_tree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/transforming_a_graph_into_a_tree/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/transforming_a_graph_into_a_tree/</guid>
       <description>To generate a Tree Graph from a general Graph we must choose some edges to be branches and some to be arcs/strings. If a graph is already a tree, all its edges are then branches. Otherwise it will have too many edges and we have to choose some to be arcs. The arcs are &amp;ldquo;excluded&amp;rdquo; from the graph and by doing that the remaining graph is a tree. The strings can be drawed in the tree graph by drawing them dashed.</description>
     </item>
     
     <item>
       <title>Tree Graph</title>
-      <link>http://localhost:1313/posts/tree_graph/</link>
+      <link>https://gutofarias.github.io/braindump/posts/tree_graph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/tree_graph/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/tree_graph/</guid>
       <description>A tree is a kind of Graph in which any two vertices are connected by exactly one path.</description>
     </item>
     
     <item>
       <title>Twist</title>
-      <link>http://localhost:1313/posts/twist/</link>
+      <link>https://gutofarias.github.io/braindump/posts/twist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/twist/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/twist/</guid>
       <description>In Screw Theory, a twist is a Screw carrying motion, which is a screw multiplied by an angular velocity quantity.
 If we describe a twist as a dual vector, the result is a angular velocity vector in the real part and a linear velocity vector in the dual part of the twist.
 If we describe a twist using Plucker Coordinates, the first three are the angular velocity and last three are the linear velocity.</description>
@@ -2107,10 +2107,10 @@ If we describe a twist using Plucker Coordinates, the first three are the angula
     
     <item>
       <title>Twist of a Joint</title>
-      <link>http://localhost:1313/posts/twist_of_a_joint/</link>
+      <link>https://gutofarias.github.io/braindump/posts/twist_of_a_joint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/twist_of_a_joint/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/twist_of_a_joint/</guid>
       <description>A joint that allows one motion has one defining screw and one defining variable.
 If the joint is a rotation joint, the screw is the axis of the joint and the variable is the angular velocity (as a scalar). The twist is then the angular velocity of the joint times its screw.
 If the joint is a prismatic joint, the screw can be:
@@ -2119,29 +2119,29 @@ If the joint is a prismatic joint, the screw can be:
     
     <item>
       <title>typed-svg (Elm)</title>
-      <link>http://localhost:1313/posts/typed_svg_elm/</link>
+      <link>https://gutofarias.github.io/braindump/posts/typed_svg_elm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/typed_svg_elm/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/typed_svg_elm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Davies Method&#39;s kinematic analysis</title>
-      <link>http://localhost:1313/posts/understanding_davies_method_s_kinematic_analysis/</link>
+      <link>https://gutofarias.github.io/braindump/posts/understanding_davies_method_s_kinematic_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/understanding_davies_method_s_kinematic_analysis/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/understanding_davies_method_s_kinematic_analysis/</guid>
       <description>When performing Davies Method, we use the origin of the system as a reference for kinematic calculations. Once we compute the effect of a joint into a link, it is computed as if the link virtually extended to the origin. So we compute the kinematic of a point in the link virtually positioned when the whole link suffers the kinematic effects caused by the joint movement.
 As Davies Method deals with Closed Kinematic Chain System by conception, the Kirchhoff Voltage Law applied using Graph Theory generates an equation for a Closed Kinematic Chain.</description>
     </item>
     
     <item>
       <title>Understanding Davies Method&#39;s statics analysis</title>
-      <link>http://localhost:1313/posts/understanding_davies_method_s_statics_analysis/</link>
+      <link>https://gutofarias.github.io/braindump/posts/understanding_davies_method_s_statics_analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/understanding_davies_method_s_statics_analysis/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/understanding_davies_method_s_statics_analysis/</guid>
       <description>When performing Davies Method, we use the origin of the system as a reference for statics calculations. This means that all the moments are computed relatively to the origin.
 If we consider a system in a static condition, no element will be accelerating and the sum of forces and moments in all bodies will amount to zero. Thus we have our equations.
 In Davies Method in spite of a traditional sum of forces in a body we perform a cut in the tree graph that generates the equations unambiguously.</description>
@@ -2149,94 +2149,94 @@ In Davies Method in spite of a traditional sum of forces in a body we perform a 
     
     <item>
       <title>Unscented Kalman Filter</title>
-      <link>http://localhost:1313/posts/unscented_kalman_filter/</link>
+      <link>https://gutofarias.github.io/braindump/posts/unscented_kalman_filter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/unscented_kalman_filter/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/unscented_kalman_filter/</guid>
       <description>A type of estimator that treats non-linear systems but do not linearize them like Extended Kalman Filter</description>
     </item>
     
     <item>
       <title>valverde2018 | Dual Quaternion Framework for Modeling of Spacecraft-Mounted Multibody Robotic Systems</title>
-      <link>http://localhost:1313/posts/valverde2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/valverde2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/valverde2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/valverde2018/</guid>
       <description>The work describes an framework to derive the dynamics of a satellite, but it can be used to a general serial mechanism (at least I think), the proposed framework works with revolute, prismatic, cylindrical, spherical and planar joints. The equations are computed using dual quaternions and Newton-Euler formulation.
 Info This paper lays out a framework to model the kinematics and dynamics of a rigid spacecraft-mounted multibody robotic system. The framework is based on dual quaternion algebra, which combines rotational and translational information in a compact representation.</description>
     </item>
     
     <item>
       <title>Vector of Action Parameters</title>
-      <link>http://localhost:1313/posts/vector_of_action_parameters/</link>
+      <link>https://gutofarias.github.io/braindump/posts/vector_of_action_parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/vector_of_action_parameters/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/vector_of_action_parameters/</guid>
       <description>A column vector where each element is one Joints constraints variable as defined in Wrench of a Joint.</description>
     </item>
     
     <item>
       <title>Vector of Motion Parameters</title>
-      <link>http://localhost:1313/posts/vector_of_motion_parameters/</link>
+      <link>https://gutofarias.github.io/braindump/posts/vector_of_motion_parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/vector_of_motion_parameters/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/vector_of_motion_parameters/</guid>
       <description>A column vector where each element is the Joints variable as defined in Twist of a Joint.</description>
     </item>
     
     <item>
       <title>Vector of System Parameters</title>
-      <link>http://localhost:1313/posts/vector_of_system_parameters/</link>
+      <link>https://gutofarias.github.io/braindump/posts/vector_of_system_parameters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/vector_of_system_parameters/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/vector_of_system_parameters/</guid>
       <description>Extended column vector made by the Vector of Motion Parameters on top of the Vector of Action Parameters.
 \[\varphi = \begin{bmatrix} \varphi_M \\ \varphi_A \end{bmatrix}\]</description>
     </item>
     
     <item>
       <title>Virtual Mechanism</title>
-      <link>http://localhost:1313/posts/virtual_mechanism/</link>
+      <link>https://gutofarias.github.io/braindump/posts/virtual_mechanism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/virtual_mechanism/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/virtual_mechanism/</guid>
       <description>Is as the name says, a mechanism that is virtual. A virtual mechanism is sometimes added to a problem to connect to the end-effector of a serial robot matematically transformating it in a parallel robot. Or, in the case of chandra2018 it is used to represent the body that the robot operates on, and by designing differents joints to this body we can restrict the movement of the body (it is another way to define the task space).</description>
     </item>
     
     <item>
       <title>wang2018 | A Method of Robot Base Frame Calibration by Using Dual Quaternion Algebra</title>
-      <link>http://localhost:1313/posts/wang2018/</link>
+      <link>https://gutofarias.github.io/braindump/posts/wang2018/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wang2018/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/wang2018/</guid>
       <description>The work proposes a method for calibrating the transformation between the inertial/world frame and the robot frame. It uses a sensor to measure the position of the end-effector and calibrates the dual quaternion resposible to acheive the transformation.
 The result was much favorable to the dual quaternion method when compared to a quaternion method and a Procrustes Analysis. The authors credits the higher precision of dual quaternions due to the fact that it computes rotation and translation coupled, so there is no error propagation when computing one and using the result to compute the other.</description>
     </item>
     
     <item>
       <title>Web Applications</title>
-      <link>http://localhost:1313/posts/web_applications/</link>
+      <link>https://gutofarias.github.io/braindump/posts/web_applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/web_applications/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/web_applications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole-Body Control</title>
-      <link>http://localhost:1313/posts/whole_body_control/</link>
+      <link>https://gutofarias.github.io/braindump/posts/whole_body_control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/whole_body_control/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/whole_body_control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wrench</title>
-      <link>http://localhost:1313/posts/wrench/</link>
+      <link>https://gutofarias.github.io/braindump/posts/wrench/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wrench/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/wrench/</guid>
       <description>In Screw Theory, a wrench is a Screw carrying an action, which is a screw multiplied by a force quantity.
 If we describe a wrench as a dual vector, the result is a force vector in the real part and a moment vector in the dual part of the wrench.
 If we describe a wrench using Plucker Coordinates, the first three components are the force and last three are the moment.</description>
@@ -2244,10 +2244,10 @@ If we describe a wrench using Plucker Coordinates, the first three components ar
     
     <item>
       <title>Wrench of a Joint</title>
-      <link>http://localhost:1313/posts/wrench_of_a_joint/</link>
+      <link>https://gutofarias.github.io/braindump/posts/wrench_of_a_joint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wrench_of_a_joint/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/wrench_of_a_joint/</guid>
       <description>A joint that allows one motion has 5 defining screws and 5 defining variables in 3d and 2 defining screws and 2 defining variables in 2d. (One for each Constraints of Motion).
 For each motion a joint does not allows, there should be a wrench constructed by:
   Translational motion: for each translational motion it does not allows add one wrench whose axis (defining screw) has the direction of the translational motion and position of the center of the joint.</description>
@@ -2255,49 +2255,49 @@ For each motion a joint does not allows, there should be a wrench constructed by
     
     <item>
       <title>wu2010 | Modelling rigid origami with quaternions and dual quaternions</title>
-      <link>http://localhost:1313/posts/wu2010/</link>
+      <link>https://gutofarias.github.io/braindump/posts/wu2010/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/wu2010/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/wu2010/</guid>
       <description>The work uses the correspondence between single-vertex rigid origami and spherical linkage to model it as quaternions and the correspondence of multi-vertex rigid origami and spatial linkage to model it as dual quaternions.
 Info This paper examines the mathematical modelling of rigid origami, a type of origami where all the panels are rigid and can only rotate about crease lines. The rotating vector model is proposed, which establishes the loop-closure conditions among a group of characteristic vectors.</description>
     </item>
     
     <item>
       <title>yacob2020 | Variation compensation in machining processes using dual quaternions</title>
-      <link>http://localhost:1313/posts/yacob2020/</link>
+      <link>https://gutofarias.github.io/braindump/posts/yacob2020/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/yacob2020/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/yacob2020/</guid>
       <description>The authors use DQ to compensate for variations in machining process. The variations are differences between the ideal/projected piece and the obtained through machining. The common way to compensate variation is using HTM. Using DQ the modeling of the problem became easier as some steps became unnecessary obtaining the same result. Also, DQ allowed to analize other types of form error which the classical model can not analize.
 Info Notes Resumo Os autores usam quatérnios duais para compensar variações em processos de usinagem.</description>
     </item>
     
     <item>
       <title>Zettelkasten</title>
-      <link>http://localhost:1313/posts/zettelkasten/</link>
+      <link>https://gutofarias.github.io/braindump/posts/zettelkasten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zettelkasten/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/zettelkasten/</guid>
       <description>https://youtu.be/nPOI4f7yCag</description>
     </item>
     
     <item>
       <title>zhao2017 | Path smoothing for five-axis machine tools using dual quaternion approximation with dominant points</title>
-      <link>http://localhost:1313/posts/zhao2017/</link>
+      <link>https://gutofarias.github.io/braindump/posts/zhao2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zhao2017/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/zhao2017/</guid>
       <description>The paper proposes a dual quaternion B-Spline approximation method for using in five-axis CNC machines. The advantages of the method are: reduced computation time, reduced storage consuption, reduced number of control points. Also using the dual quaternionic method can eliminate the fitting oscillatory and solve the parameter synchronization problem simultaneously (no idea what this two mean).
 Info Notes Resumo The paper proposes a dual quaternion B-Spline approximation method for using in five-axis CNC machines.</description>
     </item>
     
     <item>
       <title>Zotero</title>
-      <link>http://localhost:1313/posts/zotero/</link>
+      <link>https://gutofarias.github.io/braindump/posts/zotero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/zotero/</guid>
+      <guid>https://gutofarias.github.io/braindump/posts/zotero/</guid>
       <description>Programa famoso e open source para gerenciamento de referências.
 Vou adicionar a extensão Better Bibtex Extension (Zotero)</description>
     </item>
