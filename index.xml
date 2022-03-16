@@ -327,7 +327,7 @@ This has the information of the angular velocity and linear velociy. We extend t
       
       <guid>https://gutofarias.github.io/braindump/posts/considerations_over_the_inertia_matrix_davies_method_for_dynamics/</guid>
       <description>We are using all the efforts in the inertial reference frame, so the inertia matrix should be writen in that same frame. One problem arrises, the inertia matrix is not constant in the inertial frame, but it is so in an appropriate mobile frame. So we go frame from the mobile frame and transform it to the inertial frame. I.e.,
-\[{_I}I_{i} = R^T_i \, {_{Bi}I_{i} \]
+\[ {_I}I_{i} = R^T_i \, {_{Bi}I_{i} \]
 where \(i\) refers to one of the links.</description>
     </item>
     
